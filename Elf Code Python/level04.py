@@ -1,0 +1,13 @@
+import elf, munchkins, levers, lollipops, yeeters, pits
+lever0, lever1, lever2, lever3, lever4 = levers.get()
+elf.moveLeft(2)
+lever4.pull("A String")
+elf.moveUp(2)
+lever3.pull(True)
+elf.moveUp(2)
+lever2.pull(1337)
+elf.moveUp(2)
+lever1.pull(["apple", "banana", "cherry"])
+elf.moveUp(2)
+lever0.pull({ "brand": "Ford", "model": "Mustang", "year": 1964 })
+elf.moveUp(100)
