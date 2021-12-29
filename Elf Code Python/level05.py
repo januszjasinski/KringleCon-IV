@@ -1,0 +1,17 @@
+import elf, munchkins, levers, lollipops, yeeters, pits
+lever0, lever1, lever2, lever3, lever4 = levers.get()
+elf.moveLeft(2)
+lever4.pull(lever4.data() + " concatenate")
+elf.moveUp(2)
+lever3.pull(not lever3.data())
+elf.moveUp(2)
+lever2.pull(int(lever2.data()+1))
+elf.moveUp(2)
+l = lever1.data()
+l.append(1)
+lever1.pull(l)
+elf.moveUp(2)
+d = lever0.data()
+d["strkey"] = "strvalue"
+lever0.pull(d)
+elf.moveUp(100)
