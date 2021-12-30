@@ -3,7 +3,7 @@
 
 Hiding in Jack's Executive Restroom
 
-![N|Jason](https://raw.githubusercontent.com/januszjasinski/KringleCon-IV/main/jason.PNG?token=AAUXJWAXACUTBWKJVEC7BXLBZYRKI)
+![Jason](https://raw.githubusercontent.com/januszjasinski/KringleCon-IV/main/jason.PNG?token=AAUXJWAXACUTBWKJVEC7BXLBZYRKI)
 
 #  Printer: Secret end point
 
@@ -16,4 +16,5 @@ https://printer.kringlecastle.com/secretendpointforuptime revealing the text: **
 #  Printer: Bird knob
 
 I hope this is an easter egg! This was in `/var/spool`
-![enter image description here](https://raw.githubusercontent.com/januszjasinski/KringleCon-IV/main/birdknob.png?token=AAUXJWCUTOIQOW7B4BKL4VDBZYR6G)
+
+![Bird Knob](https://raw.githubusercontent.com/januszjasinski/KringleCon-IV/main/birdknob.png?token=AAUXJWCUTOIQOW7B4BKL4VDBZYR6G)
