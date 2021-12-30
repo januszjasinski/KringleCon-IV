@@ -3,6 +3,7 @@ import elf, munchkins, levers, lollipops, yeeters, pits, operator
 def YourFunctionNameHere(one_argument):
     flat = reduce(operator.concat, one_argument)
     return sum([i for i in flat if isinstance(i, int) or isinstance(i, float)])
+# Could really do with not being lazy and put into a loop...
 elf.moveDown(1)
 levers.get(0).pull(0)
 elf.moveLeft(2)
