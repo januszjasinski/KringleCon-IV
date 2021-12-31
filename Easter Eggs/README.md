@@ -39,7 +39,7 @@ Do a HEX to Acii conversion and voila:
 
 # Picture frames
 
-Already covered in previous KringleCons but 'ere we go again
+Already covered in previous KringleCons such as https://holidayhackchallenge.com/2020/winners/HolidayHack_2020_Final_Mark_Mulvaney.pdf but you know.... content
 
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/frames.PNG "shenanigans")
 
