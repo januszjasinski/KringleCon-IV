@@ -3,7 +3,7 @@
 
 Hiding in Jack's Executive Restroom
 
-https://raw.githubusercontent.com/januszjasinski/KringleCon-IV/main/jason.PNG
+![Jason](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/jason.PNG "Jason")
 
 #  Printer: Secret end point
 
@@ -17,7 +17,7 @@ https://printer.kringlecastle.com/secretendpointforuptime revealing the text: **
 
 I hope this is an easter egg! This was in `/var/spool`
 
-https://github.com/januszjasinski/KringleCon-IV/blob/main/birdknob.png
+![Bird Knob](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/birdknob.png "Bird Knob")
 
 #  Shenanigans
 
@@ -25,7 +25,7 @@ Open burp, intercept websocket, change a request when teleporting to the followi
 
     {"type":"TELEPORT_USER","destination":"shenanigans"}
 
-*IMAGE*
+![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
 # Yara Analysis #
 
