@@ -27,7 +27,7 @@ Open burp, intercept websocket, change a request when teleporting to the followi
 
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
-# Yara Analysis #
+# Yara Analysis
 
 When completing this terminal you get the following output:
 
@@ -36,3 +36,15 @@ When completing this terminal you get the following output:
 Do a HEX to Acii conversion and voila:
 
     Jolly Enough, Overtime Approved
+
+# Picture frames
+
+Already covered in previous KringleCons but 'ere we go again
+
+![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/frames.PNG "shenanigans")
+
+# Dimitri
+
+I see you but where are you hiding...
+
+![Dimitri](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/dimitri.gif "Dimitri")
