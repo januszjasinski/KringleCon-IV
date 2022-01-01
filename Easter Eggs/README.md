@@ -73,3 +73,48 @@ I know it's not strictly an easter egg but still...
     nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
     _apt:x:100:65534::/nonexistent:/usr/sbin/nologin
     mandrake:x:1000:1000::/home/mandrake:/bin/sh
+
+# Apply
+
+With all the images being accessible, it's amusing to see what people try and get up to
+
+    alan@XPS:~$ curl https://apply.jackfrosttower.com/images/E.jpg
+    root:x:0:0:root:/root:/bin/ash
+    bin:x:1:1:bin:/bin:/sbin/nologin
+    daemon:x:2:2:daemon:/sbin:/sbin/nologin
+    adm:x:3:4:adm:/var/adm:/sbin/nologin
+    lp:x:4:7:lp:/var/spool/lpd:/sbin/nologin
+    sync:x:5:0:sync:/sbin:/bin/sync
+    shutdown:x:6:0:shutdown:/sbin:/sbin/shutdown
+    halt:x:7:0:halt:/sbin:/sbin/halt
+    mail:x:8:12:mail:/var/spool/mail:/sbin/nologin
+    news:x:9:13:news:/usr/lib/news:/sbin/nologin
+    uucp:x:10:14:uucp:/var/spool/uucppublic:/sbin/nologin
+    operator:x:11:0:operator:/root:/sbin/nologin
+    man:x:13:15:man:/usr/man:/sbin/nologin
+    postmaster:x:14:12:postmaster:/var/spool/mail:/sbin/nologin
+    cron:x:16:16:cron:/var/spool/cron:/sbin/nologin
+    ftp:x:21:21::/var/lib/ftp:/sbin/nologin
+    sshd:x:22:22:sshd:/dev/null:/sbin/nologin
+    at:x:25:25:at:/var/spool/cron/atjobs:/sbin/nologin
+    squid:x:31:31:Squid:/var/cache/squid:/sbin/nologin
+    xfs:x:33:33:X Font Server:/etc/X11/fs:/sbin/nologin
+    games:x:35:35:games:/usr/games:/sbin/nologin
+    postgres:x:70:70::/var/lib/postgresql:/bin/sh
+    cyrus:x:85:12::/usr/cyrus:/sbin/nologin
+    vpopmail:x:89:89::/var/vpopmail:/sbin/nologin
+    ntp:x:123:123:NTP:/var/empty:/sbin/nologin
+    smmsp:x:209:209:smmsp:/var/spool/mqueue:/sbin/nologin
+    guest:x:405:100:guest:/dev/null:/sbin/nologin
+    nobody:x:65534:65534:nobody:/:/sbin/nologin
+    nginx:x:100:101:nginx:/var/lib/nginx:/sbin/nologin
+
+# WebSocket messages
+
+    {"type":"WS_OHHIMARK","userId":"42661","sid":"MDcyMTQ5MGEtZDI5OS00ZWYxLTk1MDgtMmVmMDQ5NDliYjFh"}
+    {"type":"CHORT","chat":[...
+    {"type":"OOOH_SPARKLY","colors":["#ffff00","#1000ff","#2eff2b"]}
+    {"type":"AAANNNDD_SCENE","areaData":...
+    {"type":"AUF_WIEDERSEHEN","userId":"14303"}
+    {"type":"SIDDOWN","location":[[5,0]],"userId":"42661"}
+    {"type":"REX","cell":[1,-1]}
