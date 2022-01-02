@@ -131,12 +131,12 @@ This gives
     	'day': 'Monday',
     	'elf': 'Jingle Ringford',
     	'elfHints': [
-        'The elf mentioned something about Stack Overflow and Golang.', 
-        'They kept checking their Snapchat app.', 
-        'Oh, I noticed they had a Star Wars themed phone case.', 
-        'The elf got really heated about using spaces for indents.', 
-        'hard'
-      ],
+    		'The elf mentioned something about Stack Overflow and Golang.', 
+    		'They kept checking their Snapchat app.', 
+    		'Oh, I noticed they had a Star Wars themed phone case.', 
+    		'The elf got really heated about using spaces for indents.', 
+    		'hard'
+    	],
     	'hour': 9,
     	'location': "Santa's Castle",
     	'options': [
