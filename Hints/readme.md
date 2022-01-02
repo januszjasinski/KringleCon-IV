@@ -26,10 +26,19 @@ Not sure what a lever requires? Click it in the ```Current Level Objectives``` p
 
 [This](https://www.geeksforgeeks.org/introduction-of-logic-gates/).
 
-# Terminal: Grep Cheat Sheet
+# Terminal: Grepping for Gold
 
-## Terminal: Grepping for Gold
+## Grep Cheat Sheet
 
 > From: Greasy GopherGuts
 
 Check [this](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php) out if you need a ```grep``` refresher.
+
+# Terminal: IPv6 Sandbox
+
+## IPv6 Reference
+
+> From: Jewel Loggins
+
+
+Check out [this Github Gist](https://gist.github.com/chriselgee/c1c69756e527f649d0a95b6f20337c2f) with common tools used in an IPv6 context.
