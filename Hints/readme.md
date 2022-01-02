@@ -40,5 +40,4 @@ Check [this](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php) out if
 
 > From: Jewel Loggins
 
-
 Check out [this Github Gist](https://gist.github.com/chriselgee/c1c69756e527f649d0a95b6f20337c2f) with common tools used in an IPv6 context.
