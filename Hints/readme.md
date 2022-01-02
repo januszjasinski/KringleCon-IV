@@ -25,3 +25,11 @@ Not sure what a lever requires? Click it in the ```Current Level Objectives``` p
 > From: Grody Goiterson
 
 [This](https://www.geeksforgeeks.org/introduction-of-logic-gates/).
+
+# Terminal: Grep Cheat Sheet
+
+## Terminal: Grepping for Gold
+
+> From: Greasy GopherGuts
+
+Check [this](https://ryanstutorials.net/linuxtutorial/cheatsheetgrep.php) out if you need a ```grep``` refresher.
