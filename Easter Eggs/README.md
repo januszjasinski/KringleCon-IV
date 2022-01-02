@@ -123,14 +123,20 @@ With all the images being accessible, it's amusing to see what people try and ge
 
 When you play the game, the cookie gets set and using https://pypi.org/project/flask-unsign/ you can just get the answers to the game:
 
-    alan@XPS:/mnt/c/Users/Alan/Downloads/SANS$ flask-unsign --decode --cookie '.eJx1Uk1v2zAM_SuELrs4g5M4iZ1b1311wNYi6TYMzQ60RFuaZcmQ5RRZ0f8-Ku1hh_YkiXzke3zig1B4Elvx1bt0yQTZhp9fjGstwY6Pxgf1FP9sXBzF9k7cagJ-Q08uGu9Iweh7iprRgLWfIuwjyg6ujxQa6-8BnYJP3qJr33IrLj9BR0MEqUl2qSpqMgH2DgepMQIOQwJe6wyuwPloJHPEVKZRAab2AX5iGFOw59ygWQZIHOmZ4Kyv9RECobVcRxgZ96RuGhPnOKCkEXg-ME7xKGOq1cjj_ubTT0Fsq0xYLzFNya7s0UV8M8IljtESg_2QMsmTu-RgDIcpz6lCmzHGoULGfFDG1VNoeZa99JFNSHb-MOQcZnAxjTEYZMY7cekHchpbchm8J9dj6Bh54eI9hSGDd2RbM_WvtEwNXpNwE7CdiAN_SWrY0TDV1khOfKN7-OVDl8H3_cW5xY1lU7S3igLnd_6IzlBvMvho3LP0HZ26P3g88yguvZL0pIBdC3zx_Z5Iie18U3KA_aa0My_b8MJwr4r9XxpTHY2MPpxufUfpbx54NUa9PYhqVdOybFS-boqCilW5ydc5LhcN5bKUWC5WdSOxni-butrMV3mVSyw26-UCC8SaVgeR8dKM_P2SrtQWDoKobpo8x9m8XhWzoihxViLms2pTzRe0LuSirg7iUTz-Aw7AFk0.YdF0TA.vR3QS4BrTQeMNDYNrMCmp2ArQJQ'
+    alan@XPS:/SANS$ flask-unsign --decode --cookie '.eJx1Uk1v2zAM_SuELrs4g5M4iZ1b1311wNYi6TYMzQ60RFuaZcmQ5RRZ0f8-Ku1hh_YkiXzke3zig1B4Elvx1bt0yQTZhp9fjGstwY6Pxgf1FP9sXBzF9k7cagJ-Q08uGu9Iweh7iprRgLWfIuwjyg6ujxQa6-8BnYJP3qJr33IrLj9BR0MEqUl2qSpqMgH2DgepMQIOQwJe6wyuwPloJHPEVKZRAab2AX5iGFOw59ygWQZIHOmZ4Kyv9RECobVcRxgZ96RuGhPnOKCkEXg-ME7xKGOq1cjj_ubTT0Fsq0xYLzFNya7s0UV8M8IljtESg_2QMsmTu-RgDIcpz6lCmzHGoULGfFDG1VNoeZa99JFNSHb-MOQcZnAxjTEYZMY7cekHchpbchm8J9dj6Bh54eI9hSGDd2RbM_WvtEwNXpNwE7CdiAN_SWrY0TDV1khOfKN7-OVDl8H3_cW5xY1lU7S3igLnd_6IzlBvMvho3LP0HZ26P3g88yguvZL0pIBdC3zx_Z5Iie18U3KA_aa0My_b8MJwr4r9XxpTHY2MPpxufUfpbx54NUa9PYhqVdOybFS-boqCilW5ydc5LhcN5bKUWC5WdSOxni-butrMV3mVSyw26-UCC8SaVgeR8dKM_P2SrtQWDoKobpo8x9m8XhWzoihxViLms2pTzRe0LuSirg7iUTz-Aw7AFk0.YdF0TA.vR3QS4BrTQeMNDYNrMCmp2ArQJQ'
 
 This gives
 
     {
     	'day': 'Monday',
     	'elf': 'Jingle Ringford',
-    	'elfHints': ['The elf mentioned something about Stack Overflow and Golang.', 'They kept checking their Snapchat app.', 'Oh, I noticed they had a Star Wars themed phone case.', 'The elf got really heated about using spaces for indents.', 'hard'],
+    	'elfHints': [
+        'The elf mentioned something about Stack Overflow and Golang.', 
+        'They kept checking their Snapchat app.', 
+        'Oh, I noticed they had a Star Wars themed phone case.', 
+        'The elf got really heated about using spaces for indents.', 
+        'hard'
+      ],
     	'hour': 9,
     	'location': "Santa's Castle",
     	'options': [
