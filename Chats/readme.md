@@ -14,8 +14,109 @@
 > 
 > Here is the [source code](https://download.holidayhackchallenge.com/2021/frosttower-web.zip) if you need it.
 
-## After solving it
+## After commpletion
 
 > Oh wow - I thought we left SQL injection in the last decade.
 > 
 > Thanks for your help finding this!
+
+# Grimy McTrollkins
+
+# Tangle Coalbox
+
+# Morcel Nougat
+
+# Santa
+
+# Noxious O. D'or
+
+# Greasy GopherGuts
+
+# Buttercup
+
+# Chimney Scissorsticks
+
+# Piney Sappington
+
+# Icy Sickles
+
+# Pat Tronizer
+
+# Tinsel Upatree
+
+# Jewel Loggins
+
+# Jack Frost
+
+# SANS.edu Booth
+
+# Fitzy Shortstack
+
+# Erin Fection
+
+# Dealer
+
+# Hubris Selfington
+
+# Noel Boetie
+
+# Ribb Bonbowford
+
+# Jason
+
+> Hey! It's me, Jason!
+> 
+> Job Hunting? Feeling stuck?
+> 
+> 759, 760, 761!
+
+# Cyberus
+
+# Yeller
+
+# Ruby Cyster
+
+# Seller
+
+# Numby Chilblain
+
+# Google Booth
+
+# Crunchy Squishter
+
+# Rose Mold
+
+# Bow Ninecandle
+
+# Angel Candysalt
+
+# Eve Snowshoes
+
+# Grody Goiterson
+
+# Jingle Ringford
+
+# RSAC Booth
+
+# Icky McGoop
+
+> Location: The North Pole
+> Terminal: Bonus! Red Log4Jack
+
+> Hey, I'm Icky McGoop.
+> 
+> Late? What's it to you? I got here when I got here.
+> 
+> So anyways, I thought you might be interested in this Yule Log4Jack. It's all the rage lately.
+> 
+> Yule Log4Jack is in a ton of software - helps our big guy keep track of things.
+> 
+> It's kind of like salt. It's in WAY more things than you normally think about.
+> 
+> In fact, a vulnerable Solr instance is running in an internal North Pole system, accessible in this terminal.
+> 
+> Anyways, why don't you see if you can get to the yule.log file in this system?
+
+## After commpletion
+
+> Hey hey, that's it! Great work!
