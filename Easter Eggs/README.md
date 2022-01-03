@@ -9,9 +9,11 @@ Hiding in Jack's Executive Restroom
 
 https://printer.kringlecastle.com/secretendpointforuptime revealing the text: **follow the white rabbit**. This was found in the application code.
 
-    get '/secretendpointforuptime' do
-      return File.read('/tmp/uptime-check.txt')
-    end
+```ruby
+get '/secretendpointforuptime' do
+    return File.read('/tmp/uptime-check.txt')
+end
+```
 
 #  Printer: Bird knob
 
@@ -23,7 +25,9 @@ I hope this is an easter egg! This was in `/var/spool`
 
 Open burp, intercept websocket, change a request when teleporting to the following and voila:
 
-    {"type":"TELEPORT_USER","destination":"shenanigans"}
+```json
+{"type":"TELEPORT_USER","destination":"shenanigans"}
+```
 
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
@@ -123,11 +127,12 @@ With all the images being accessible, it's amusing to see what people try and ge
 
 When you play the game, the cookie gets set and using [Flask Unsign](https://pypi.org/project/flask-unsign/) you can just get the answers to the game:
 
-    alan@XPS:/SANS$ flask-unsign --decode --cookie '.eJx1Uk1v2zAM_SuELrs4g5M4iZ1b1311wNYi6TYMzQ60RFuaZcmQ5RRZ0f8-Ku1hh_YkiXzke3zig1B4Elvx1bt0yQTZhp9fjGstwY6Pxgf1FP9sXBzF9k7cagJ-Q08uGu9Iweh7iprRgLWfIuwjyg6ujxQa6-8BnYJP3qJr33IrLj9BR0MEqUl2qSpqMgH2DgepMQIOQwJe6wyuwPloJHPEVKZRAab2AX5iGFOw59ygWQZIHOmZ4Kyv9RECobVcRxgZ96RuGhPnOKCkEXg-ME7xKGOq1cjj_ubTT0Fsq0xYLzFNya7s0UV8M8IljtESg_2QMsmTu-RgDIcpz6lCmzHGoULGfFDG1VNoeZa99JFNSHb-MOQcZnAxjTEYZMY7cekHchpbchm8J9dj6Bh54eI9hSGDd2RbM_WvtEwNXpNwE7CdiAN_SWrY0TDV1khOfKN7-OVDl8H3_cW5xY1lU7S3igLnd_6IzlBvMvho3LP0HZ26P3g88yguvZL0pIBdC3zx_Z5Iie18U3KA_aa0My_b8MJwr4r9XxpTHY2MPpxufUfpbx54NUa9PYhqVdOybFS-boqCilW5ydc5LhcN5bKUWC5WdSOxni-butrMV3mVSyw26-UCC8SaVgeR8dKM_P2SrtQWDoKobpo8x9m8XhWzoihxViLms2pTzRe0LuSirg7iUTz-Aw7AFk0.YdF0TA.vR3QS4BrTQeMNDYNrMCmp2ArQJQ'
+```bash
+alan@XPS:/SANS$ flask-unsign --decode --cookie '.eJx1Uk1v2zAM_SuELrs4g5M4iZ1b1311wNYi6TYMzQ60RFuaZcmQ5RRZ0f8-Ku1hh_YkiXzke3zig1B4Elvx1bt0yQTZhp9fjGstwY6Pxgf1FP9sXBzF9k7cagJ-Q08uGu9Iweh7iprRgLWfIuwjyg6ujxQa6-8BnYJP3qJr33IrLj9BR0MEqUl2qSpqMgH2DgepMQIOQwJe6wyuwPloJHPEVKZRAab2AX5iGFOw59ygWQZIHOmZ4Kyv9RECobVcRxgZ96RuGhPnOKCkEXg-ME7xKGOq1cjj_ubTT0Fsq0xYLzFNya7s0UV8M8IljtESg_2QMsmTu-RgDIcpz6lCmzHGoULGfFDG1VNoeZa99JFNSHb-MOQcZnAxjTEYZMY7cekHchpbchm8J9dj6Bh54eI9hSGDd2RbM_WvtEwNXpNwE7CdiAN_SWrY0TDV1khOfKN7-OVDl8H3_cW5xY1lU7S3igLnd_6IzlBvMvho3LP0HZ26P3g88yguvZL0pIBdC3zx_Z5Iie18U3KA_aa0My_b8MJwr4r9XxpTHY2MPpxufUfpbx54NUa9PYhqVdOybFS-boqCilW5ydc5LhcN5bKUWC5WdSOxni-butrMV3mVSyw26-UCC8SaVgeR8dKM_P2SrtQWDoKobpo8x9m8XhWzoihxViLms2pTzRe0LuSirg7iUTz-Aw7AFk0.YdF0TA.vR3QS4BrTQeMNDYNrMCmp2ArQJQ'
+```
 
-This gives
+This gives the following:
 
-```json
     {
     	'day': 'Monday',
     	'elf': 'Jingle Ringford',
@@ -150,7 +155,6 @@ This gives
     	'route': ['Edinburgh, Scotland', 'Antwerp, Belgium', 'Prague, Czech Republic', 'Placeholder'],
     	'victoryToken': '{ hash:"95be38fd06f44e4587060a32fe0c8ca825bfcab13fb9715090ca47632a4aabe5", resourceId: "eebff00a-1b54-448a-8aa0-97912e64c2b9"}'
     }
-```
 
 # Now hiring!
 
