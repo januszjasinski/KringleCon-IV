@@ -14,7 +14,7 @@
 > 
 > Here is the [source code](https://download.holidayhackchallenge.com/2021/frosttower-web.zip) if you need it.
 
-## After commpletion
+## After completion
 
 > Oh wow - I thought we left SQL injection in the last decade.
 > 
@@ -112,7 +112,7 @@
 >
 > Terminal: Bonus! Red Log4Jack
 
-***
+![Icky McGoop](https://2021.kringlecon.com/images/avatars/trolls/1202dcd2ccc24c599bda051209b1b5f4.png "Icky McGoop")
 
 > Hey, I'm Icky McGoop.
 > 
@@ -128,6 +128,6 @@
 > 
 > Anyways, why don't you see if you can get to the ```yule.log``` file in this system?
 
-## After commpletion
+## After completion
 
 > Hey hey, that's it! Great work!
