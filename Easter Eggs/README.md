@@ -182,6 +182,13 @@ If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity
 }
 ```
 
+Also if you use ```/var/www/html/index.html``` instead of a standard URL, then you get this at the top of the script
+
+```php
+define('DB_NAME', 'intern');
+define('DB_USER', 'intern');
+define('DB_PASSWORD', 'polarwinds');
+```
 
 # Grasping at straws
 
