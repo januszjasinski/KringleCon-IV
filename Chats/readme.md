@@ -101,7 +101,10 @@
 # Icky McGoop
 
 > Location: The North Pole
+>
 > Terminal: Bonus! Red Log4Jack
+
+***
 
 > Hey, I'm Icky McGoop.
 > 
