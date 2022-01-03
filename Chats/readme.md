@@ -98,6 +98,14 @@
 
 # RSAC Booth
 
+> Location: Courtyard
+
+***
+
+> Happy Holidays! Join us February 7-10 for the new RSAC 2022.
+> 
+> [Click to learn more](https://www.rsaconference.com/usa) about our program.
+
 # Icky McGoop
 
 > Location: The North Pole
@@ -118,7 +126,7 @@
 > 
 > In fact, a vulnerable Solr instance is running in an internal North Pole system, accessible in this terminal.
 > 
-> Anyways, why don't you see if you can get to the yule.log file in this system?
+> Anyways, why don't you see if you can get to the ```yule.log``` file in this system?
 
 ## After commpletion
 
