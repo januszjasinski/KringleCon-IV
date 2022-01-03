@@ -1,5 +1,11 @@
 # Ingreta Tude
 
+> Location: Jack's Studio
+>
+> Objective: Frost Tower Website Checkup
+
+![Ingreta Tude](https://2021.kringlecon.com/images/avatars/trolls/d4c4dcd5f8784f9bb484f93b6146b505.png "Ingreta Tude")
+
 > Hey there! I’m Ingreta Tude. I really don’t like the direction Jack Frost is leading us.
 > 
 > He seems obsessed with beating Santa and taking over the holiday season. It just doesn’t seem right.
