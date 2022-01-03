@@ -62,6 +62,20 @@ Prof. Qwerty Petabyte is giving [a lesson](https://youtu.be/OuYMPU3-0p4) about A
 
 Software by the [Apache Foundation](https://logging.apache.org/log4j/2.x/manual/lookups.html) runs on devices all over the internet
 
+# Terminal: Bonus! Red Log4Jack
+
+## Log4j Red Help Document
+
+> From: Icky McGoop
+
+Josh Wright's [help document](https://gist.github.com/joswr1ght/fb361f1f1e58307048aae5c0f38701e4) for the Red challenge.
+
+# Log4j Discussion with Bishop Fox
+
+> From: Icky McGoop
+
+Join Bishop Fox for [a discussion](https://bishopfox.com/blog/log4j-zero-day-cve-2021-44228) of the issues involved.
+
 # Terminal: Logic Munchers
 
 ## AND, OR, NOT, XOR
