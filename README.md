@@ -24,3 +24,4 @@ My repository for KringleCon IV. JUst including some extra stuff I thought may b
 ## Objectives
 
 - [Kerberoasting - just the password file](https://github.com/januszjasinski/KringleCon-IV/tree/main/Kerberoasting)
+- [Frost Tower Website Checkup - using RockYou and other lists to enumerate what people were trying](https://github.com/januszjasinski/KringleCon-IV/tree/main/Frost%20Tower%20Website%20Checkup)
