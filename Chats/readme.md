@@ -28,6 +28,32 @@
 
 # Grimy McTrollkins
 
+> Outside Frost Towers
+>
+> Objective: Thaw Frost Tower's Entrance
+
+![Grimy McTrollkins](https://2021.kringlecon.com/images/avatars/trolls/fc51f4dfc51b40ae99a5b7838657db80.png "Grimy McTrollkins")
+
+> Yo, I'm Grimy McTrollkins.
+> 
+> I'm a troll and I work for the big guy over there: Jack Frost.
+> 
+> I’d rather not be bothered talking with you, but I’m kind of in a bind and need your help.
+> 
+> Jack Frost is so obsessed with icy cold that he accidentally froze shut the door to Frost Tower!
+> 
+> I wonder if you can help me get back in.
+> 
+> I think we can melt the door open if we can just get access to the thermostat inside the building.
+> 
+> That thermostat uses Wi-Fi. And I’ll bet you picked up a Wi-Fi adapter for your badge when you got to the North Pole.
+> 
+> Click on your badge and go to the ```Items``` tab. There, you should see your Wi-Fi Dongle and a button to “Open Wi-Fi CLI.” That’ll give you command-line interface access to your badge’s wireless capabilities.
+
+## After completion
+
+> Great - now I can get back in!
+
 # Tangle Coalbox
 
 # Morcel Nougat
