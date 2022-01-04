@@ -9,7 +9,7 @@ The source code for the site is in here somewhere....
 
 You could also pass ```php://input``` as the URL, change to a ```POST``` request and whatever data you send will be saved against that image. Exciting eh?
 
-Logs are not to file so we can't get at them unfortunately
+Logs are not to file so we can't get at them unfortunately to see what other people have tried
 
 ```nginx
 access_log /dev/stdout main_timed;
