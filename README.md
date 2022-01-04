@@ -27,7 +27,7 @@ My repository for KringleCon IV. Just including some extra stuff I thought may b
 - [Kerberoasting - just the password file](https://github.com/januszjasinski/KringleCon-IV/tree/main/Kerberoasting)
 - [Now Hiring - using RockYou and other lists to enumerate what people were trying](https://github.com/januszjasinski/KringleCon-IV/tree/main/Now%20Hiring)
 - [Where in the World is Caramel Santaigo? - Python and CyberChef](https://github.com/januszjasinski/KringleCon-IV/tree/main/Where%20in%20the%20World%20is%20Caramel%20Santaigo)
-- [Customer complaint analysis](https://github.com/januszjasinski/KringleCon-IV/tree/main/Customer%20Complaint%20Analysis)
+- [Customer complaint analysis - extracted objects and all complaints](https://github.com/januszjasinski/KringleCon-IV/tree/main/Customer%20Complaint%20Analysis)
 
 ## Story
 
