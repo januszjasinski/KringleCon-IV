@@ -6,3 +6,5 @@ The source code for the site is in here somewhere....
 - [Passwd](https://github.com/januszjasinski/KringleCon-IV/blob/main/Now%20Hiring/passwd.txt)
 - [Brute force 1](https://github.com/januszjasinski/KringleCon-IV/blob/main/Now%20Hiring/forst_numbers.py)
 - [Brute force 2](https://github.com/januszjasinski/KringleCon-IV/blob/main/Now%20Hiring/frost_rock.py)
+
+You could also pass ```php://input``` as the URL, change to a ```POST``` request and whatever data you send will be saved against that image. Exciting eh?
