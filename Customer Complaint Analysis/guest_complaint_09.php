@@ -1,0 +1,1 @@
+name=Crag&troll_id=2351&guest_info=Bald+man+in+room+1212&description=Crag+get+in+elevator.+Man+get+in+too.+Crag+push+ALL+buttons.+Crag+giggle+because+is+funny+joke.+Man+is+no+thinking+funny.+He+has+bad+humor.+He+call+Crag+%22unthinking+brute.%22+Crag+is+not+brute.&submit=Submit

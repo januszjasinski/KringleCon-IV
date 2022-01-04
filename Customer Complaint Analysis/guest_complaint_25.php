@@ -1,0 +1,1 @@
+name=Wuuk&troll_id=2987&guest_info=Very+crabby+woman+in+room+1125&description=Lady+call+desk+and+say+toilet+plug.+Wuuk+take+plunger+and+go+to+room.+Wuuk+make+innocent+comment+that+lady+poop+like+troll+and+say+Wuuk+is+%22outrageous.%22%0D%0A%0D%0ADoes+that+mean+handsome%3F&submit=Submit

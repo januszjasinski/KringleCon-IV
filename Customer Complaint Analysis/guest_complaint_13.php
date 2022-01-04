@@ -1,0 +1,1 @@
+name=Yaqh&troll_id=2796&guest_info=Snooty+lady+in+room+1024&description=Lady+call+desk+and+ask+for+more+towel.+Yaqh+take+to+room.+Yaqh+ask+if+she+want+more+towel+because+she+is+like+to+steal.+She+say+Yaqh+is+insult.+Yaqh+is+not+insult.+Yaqh+is+Yaqh.&submit=Submit

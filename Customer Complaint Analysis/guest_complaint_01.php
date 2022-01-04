@@ -1,0 +1,1 @@
+name=Klug&troll_id=2234&guest_info=Funny+looking+man+in+room+1145&description=I+carry+suitcase+to+room.+Throw+bag+at+bed+and+miss+a+little.+Man+is+angry.+He+say+suitcase+is+scuff.+I+say+his+face+is+scuff.+He+is+more+angry+and+I+get+no+tip.&submit=Submit

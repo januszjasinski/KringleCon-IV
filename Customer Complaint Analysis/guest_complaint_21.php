@@ -1,0 +1,1 @@
+name=Quib&troll_id=2539&guest_info=Ugly+little+man+in+room+1121&description=He+call+desk+and+say+his+shoes+need+shine.+He+leave+outside+door.+I+go+and+get.+I+spit+shine.+One+spot+on+shoes+is+bad+so+I+lick+a+little.+Quite+tasty.+I+accidental+eat+shoe.+I+take+other+shoe+back.+I+am+proud+I+no+eat.+He+is+mean+at+me.&submit=Submit

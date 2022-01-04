@@ -1,0 +1,1 @@
+name=Gavk&troll_id=2354&guest_info=Annoying+woman+in+room+1239&description=Woman+call+desk+and+complain+that+room+is+cold.+I+go+to+room%2C+knock+on+door%2C+and+tell+her+nice+that+I+eat+beans+at+lunch+and+can+warm+room+up.+She+slam+door+in+Gavk+face.+So+mean.&submit=Submit

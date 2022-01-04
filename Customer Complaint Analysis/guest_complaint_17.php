@@ -1,0 +1,1 @@
+name=Hagg&troll_id=2013&guest_info=Incredibly+angry+lady+in+room+1024&description=Lady+call+front+desk.+I+am+walk+by+so+I+pick+up+phone.+She+is+ANGRY+and+shout+at+me.+Say+she+has+never+been+so+insult.+I+say+she+probably+has+but+just+didn%27t+hear+it.&submit=Submit

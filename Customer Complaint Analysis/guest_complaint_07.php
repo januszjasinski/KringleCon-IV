@@ -1,0 +1,1 @@
+name=Euuk&troll_id=1973&guest_info=Ugly%2C+mean+couple+in+room+1032&description=Euuk+do+an+innocent+%22crop+dust%22+in+elevator+as+it+reach+ground+floor.+No+biggie+-+everyone+do+this+sometimes.+Couple+get+in.+Begin+to+retch.+Look+at+me+with+mean-type+nastiness.+I+have+bad+feels.&submit=Submit

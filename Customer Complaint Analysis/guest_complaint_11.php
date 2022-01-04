@@ -1,0 +1,1 @@
+name=Urgh&troll_id=2633&guest_info=Stupid+man+in+room+1215&description=Bring+drink+to+man+at+slot+machine.+Spill+it+on+him+a+little.+Urgh+go+to+lick+it+off+of+him+and+he+is+angry.+Say+his+is+%22shock%22+at+Urgh+behavior+and+lick+is+a+bad+idea.+He+is+silly+and+mean.&submit=Submit
