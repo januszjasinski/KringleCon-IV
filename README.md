@@ -25,7 +25,7 @@ My repository for KringleCon IV. Just including some extra stuff I thought may b
 
 - [Strange USB Device - quack](https://github.com/januszjasinski/KringleCon-IV/tree/main/Ducky)
 - [Kerberoasting - just the password file](https://github.com/januszjasinski/KringleCon-IV/tree/main/Kerberoasting)
-- [Now Hiring - using RockYou and other lists to enumerate what people were trying](https://github.com/januszjasinski/KringleCon-IV/tree/main/Frost%20Tower%20Website%20Checkup)
+- [Now Hiring - using RockYou and other lists to enumerate what people were trying](https://github.com/januszjasinski/KringleCon-IV/tree/main/Now%20Hiring)
 
 ## Story
 
