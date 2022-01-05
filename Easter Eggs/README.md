@@ -194,7 +194,7 @@ Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
 
 # Snarf. Hrung. Phlthth.
 
-It's what Hubris Selfingtonopens up with in Frost Tower Lobby
+It's what Hubris Selfington opens up with in Frost Tower Lobby
 
 [Snarf](https://en.wikipedia.org/wiki/Snarf_(ThunderCats)) - (love this dude), [Hrung](https://alienencyclopedia.fandom.com/wiki/Hrung) and I've yet to suss out what Phlthth is
 
