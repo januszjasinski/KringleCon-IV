@@ -138,6 +138,8 @@
 > 
 > Above all, have fun!
 
+![Santa](https://2021.kringlecon.com/images/santafone.png)
+
 > The Frostians have reached out to me via video link. They’ve explained to me all that has happened.
 > 
 > I’d like to thank you for your truly excellent work in foiling Jack’s plans and ensuring that he is finally brought to justice.
