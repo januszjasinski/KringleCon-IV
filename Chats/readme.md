@@ -284,19 +284,16 @@
 
 # SANS.edu Booth
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Courtyard
 
-![XXX](XXX)
+![SANS.edu Booth](https://2021.kringlecon.com/images/sans-bottom.jpg)
 
-> XXX
-> 
+> Happy holidays from the best college in cybersecurity!
 
-## After completion
+> Interested in attending? Here's a code to waive your application fee to [SANS.edu](https://www.sans.edu/), the best college in cybersecurity.
 
-> XXX
->
+> Use the code ```SantaGoesToCollege``` when you apply.
+
 
 # Fitzy Shortstack
 
@@ -404,163 +401,189 @@
 
 # Cyberus
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Courtyard
 
-![XXX](XXX)
+![Cyberus](https://2021.kringlecon.com/images/avatars/cyberus.png)
 
-> XXX
+> woof! woof!!
 > 
-
-## After completion
-
-> XXX
->
+> WHO SAID THAT??
+> 
+> I’m Cyberus, the mascot of the [SANS.edu](https://www.sans.edu/) college!
 
 # Yeller
 
-> Location: BBB
->
-> XXX: XXX
-
-![XXX](XXX)
-
-> XXX
+> Location: Courtyard
 > 
+> This changed depending on your progression in KringleCon
 
-## After completion
+![Yeller](https://2021.kringlecon.com/images/avatars/bird1.png)
 
-> XXX
->
+> HEEEEEEY YOU!!!
+> 
+> NICE WORK!
+> 
+> GREAT JOB!
 
 # Ruby Cyster
 
-> Location: BBB
+> Location: Jack's Office
 >
-> XXX: XXX
+> Objective: Printer Exploitation
 
-![XXX](XXX)
+![XXX](https://2021.kringlecon.com/images/avatars/trolls/b958d32adc7040429b0254d323baf446.png)
 
-> XXX
+> Hey, I'm Ruby Cyster. Don't listen to anything my sister, Ingreta, says about me.
 > 
+> So I'm looking at this system, and it has me a little bit worried.
+> 
+> If I didn't know better, I'd say someone here is learning how to hack North Pole systems.
+> 
+> Who's got that kind of nerve!
+> 
+> Anyway, I hear some elf on the other roof knows a bit about this type of thing.
 
 ## After completion
 
-> XXX
->
+> Oh man - what is this all about? Great work though.
+> 
+> So first things first, you should definitely take a look at the firmware.
+> 
+> With that in-hand, you can pick it apart and see what's there.
+> 
+> Did you know that if you append multiple files of that type, the last one is processed?
+> 
+> Have you heard of [Hash Extension Attacks](https://blog.skullsecurity.org/2012/everything-you-need-to-know-about-hash-length-extension-attacks)?
+> 
+> If something isn't working, be sure to check the output! The error messages are very verbose.
+> 
+> Everything else accomplished, you just might be able to get shell access to that dusty old thing!
 
 # Seller
 
-> Location: BBB
+> Location: Courtyard
 >
-> XXX: XXX
+> This changed depending on your progression in KringleCon
 
-![XXX](XXX)
+![Seller](https://2021.kringlecon.com/images/avatars/bird2.png)
 
-> XXX
+> Your car's warranty is about to expire!
 > 
-
-## After completion
-
-> XXX
->
+> Hey... what's it going to take for you to buy TODAY?!
+> 
+> This bargain won't last!
+> 
+> I managed to convince the boss to give you the best price EVER!
 
 # Numby Chilblain
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Frost Tower Rooftop
 
-![XXX](XXX)
+![Numby Chilblain](https://2021.kringlecon.com/images/avatars/trolls/aea3414c05da44768630e70b21908fda.png)
 
-> XXX
+> Klatu Barada Nikto!
 > 
+> I'm Numby Chilblain.
 
 ## After completion
 
-> XXX
->
+> Oh, did you notice that spaceship there?
+> 
+> The device you helped fix summoned it AT LAST!
+> 
+> Finally, this madness Jack Frost stirred up will soon come to an end.
 
 # Google Booth
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Courtyard
 
-![XXX](XXX)
+![Google Booth](https://2021.kringlecon.com/images/google-bottom.jpg)
 
-> XXX
-> 
+> Google is a proud sponsor of KringleCon and the Holiday Hack Challenge. We wish you a happy holiday hacking season.
 
-## After completion
-
-> XXX
->
+> [Meet Security Engineers at Google](https://www.youtube.com/watch?v=-6ZbrfSRWKc)
 
 # Crunchy Squishter
 
-> Location: BBB
+> Location: Frost Tower Rooftop
 >
-> XXX: XXX
+> Objective: FPGA Programming
 
-![XXX](XXX)
+![Crunchy Squishter](https://2021.kringlecon.com/images/avatars/trolls/35a7d3683f964507b4a1e6b174357239.png)
 
-> XXX
+> Greetings Earthling! I'm Crunchy Squishter.
 > 
+> Hey, could you help me get this device on the table working? We've cobbled it together with primitive parts we've found on your home planet.
+> 
+> We need an FPGA though - and someone who knows how to program them.
+> 
+> If you haven't talked with Grody Goiterson by the Frostavator, you might get some FPGA tips there.
 
 ## After completion
 
-> XXX
->
+> Thank you! Now we're able to communicate with the rest of our people!
 
 # Rose Mold
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Frost Tower Rooftop
 
-![XXX](XXX)
+![XXX](https://2021.kringlecon.com/images/avatars/trolls/cc8865507f09442daec3eaacbb3f7049.png)
 
-> XXX
+> I'm Rose Mold. What planet are you from?
 > 
-
-## After completion
-
-> XXX
->
+> Hey, way to go climbing the stairs. You do know you can teleport, right?
+> 
+> Or just use the Frostavator.
+> 
+> n00bs... 
 
 # Bow Ninecandle
 
-> Location: BBB
+> Location: The North Pole
 >
-> XXX: XXX
+> Terminal: Bonus! Blue Log4Jack
 
-![XXX](XXX)
+![Bow Ninecandle](https://2021.kringlecon.com/images/avatars/elves/bowninecandle.png)
 
-> XXX
+> Well hello! I'm Bow Ninecandle!
 > 
-
-## After completion
-
-> XXX
->
+> Sorry I'm late to KringleCon; I got delayed by this other... thing.
+> 
+> Say, would you be interested in taking a look? We're trying to defend the North Pole systems from the Yule Log4Jack vulnerability.
+> 
+> This terminal has everything you need to get going, and it'll walk you through the process.
+> 
+> Go ahead and give it a try! No previous experience with Log4j required.
+> 
+> We'll even supply a checker script in the terminal for vulnerable libraries that you could use in your own environment.
+> 
+> [The talk](https://youtu.be/OuYMPU3-0p4) Prof. Petabyte is giving will be helpful too!
+> 
+> Oh, and don't worry if this doesn't show up in your badge. This is just a fun extra!
 
 # Angel Candysalt
 
-> Location: BBB
+> Location: Great Room
 >
-> XXX: XXX
+> Objective: Splunk!
 
-![XXX](XXX)
+![Angel Candysalt](https://2021.kringlecon.com/images/avatars/elves/angelcandysalt.png)
 
-> XXX
+> Greetings North Pole visitor! I'm Angel Candysalt!
 > 
+> A euphemism? No, that's my name. Why do people ask me that?
+> 
+> Anywho, I'm back at Santa’s Splunk terminal again this year.
+> 
+> There's always more to learn!
+> 
+> Take a look and see what you can find this year.
+> 
+> With who-knows-what going on next door, it never hurts to have sharp SIEM skills!
 
 ## After completion
 
-> XXX
->
+> Yay! You did it!
 
 # Eve Snowshoes
 
@@ -674,7 +697,7 @@
 
 > Location: Courtyard
 
-***
+![RSAC Booth](https://2021.kringlecon.com/images/rsac-bottom.jpg)
 
 > Happy Holidays! Join us February 7-10 for the new RSAC 2022.
 > 

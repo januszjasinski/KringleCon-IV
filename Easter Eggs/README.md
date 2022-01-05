@@ -182,6 +182,16 @@ define('DB_USER', 'intern');
 define('DB_PASSWORD', 'polarwinds');
 ```
 
+# Klatu Barada Nikto
+
+This is the greeting that Numby Chilblain gives us on Frost Tower Rooftop. 
+
+![Klatu Barada Nikto](https://2021.kringlecon.com/images/avatars/trolls/aea3414c05da44768630e70b21908fda.png)
+
+Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
+
+```"Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.```
+
 # Grasping at straws
 
 No 13th floor in Jack Frost Towers
