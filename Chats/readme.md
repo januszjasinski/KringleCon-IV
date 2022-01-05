@@ -294,86 +294,131 @@
 
 > Use the code ```SantaGoesToCollege``` when you apply.
 
-
 # Fitzy Shortstack
 
-> Location: BBB
+> Location: KringleCon Entry
 >
-> XXX: XXX
+> Terminal: Yara Analysis
 
-![XXX](XXX)
+![Fitzy Shortstack](https://2021.kringlecon.com/images/avatars/elves/elf23.png)
 
-> XXX
+> Hiya, I'm Fitzy Shortstack!
 > 
+> I was just trying to learn a bit more about YARA with this here Cranberry Pi terminal.
+> 
+> I mean, I'm not saying I'm worried about attack threats from that other con next door, but...
+> 
+> OK. I AM worried. I've been thinking a bit about how malware might bypass YARA rules.
+> 
+> If you can help me solve the issue in this terminal, I’ll understand YARA so much better! Would you please check it out so I can learn?
+> 
+> And, I’ll tell you what – if you help me with YARA, I’ll give you some tips for Splunk!
+> 
+> I think if you make small, innocuous changes to the executable, you can get it to run in spite of the YARA rules.
 
 ## After completion
 
-> XXX
->
+> Thanks - you figured it out!
+> 
+> Let me tell you what I know about Splunk.
+> 
+> Did you know Splunk recently added support for new data sources including Sysmon for Linux and GitHub Audit Log data?
 
 # Erin Fection
 
-> Location: BBB
->
-> XXX: XXX
+> Location: The Third Kind
 
-![XXX](XXX)
+![Erin Fection](https://2021.kringlecon.com/images/avatars/trolls/e9e5b7cb573f44f28c4d0291c58486c0.png)
 
-> XXX
+> I am Erin Fection, the pilot of this interstellar spaceship.
 > 
-
-## After completion
-
-> XXX
->
+> Our first expedition established a base in the land of Oz, where our researchers became known as “Munchkins.”
+> 
+> We received a message from them long ago about a Great Schism, where the Frostian expedition split into two warring factions: Munchkins and Elves.
+> 
+> Thankfully, they managed to establish an uneasy peace by relocating the Elves to the North Pole.
+> 
+> Since then, we have heard nothing from the expedition. They went interstellar radio silent. Until NOW.
 
 # Dealer
 
-> Location: BBB
->
-> XXX: XXX
-
-![XXX](XXX)
-
-> XXX
+> Location: Courtyard
 > 
+> This changed depending on your progression in KringleCon
 
-## After completion
+![Dealer](https://2021.kringlecon.com/images/avatars/bird4.png)
 
-> XXX
->
+> Ante up!
+> 
+> Luck of the draw!
+> 
+> All bets are off!
+> 
+> You hit the jackpot!
 
 # Hubris Selfington
 
-> Location: BBB
+> Location: Frost Tower Lobby
 >
-> XXX: XXX
+> Objective: Slot Machine Investigation
 
-![XXX](XXX)
+![Hubris Selfington](https://2021.kringlecon.com/images/avatars/trolls/b17392a4474c45bdb08a5c0036e3efff.png)
 
-> XXX
+> Snarf. Hrung. Phlthth.
 > 
+> I'm Hubris Selfington.
+> 
+> The big boss told me he’s worried about vulnerabilities in his slot machines, especially this one.
+> 
+> Statistically speaking, it seems to be paying out way too much.
+> 
+> He asked me to see if there are any security flaws in it.
+> 
+> The boss has HUGE plans and we’ve gotta make sure we are running a tight ship here at Frost Tower.
+> 
+> Can you help me find the issue?
+> 
+> I mean, I could TOTALLY do this on my own, but I want to give you a chance first.
 
 ## After completion
 
-> XXX
->
+> Yeah, that's exactly how I would have solved it, but thanks.
 
 # Noel Boetie
 
-> Location: BBB
+> Location: Courtyard
 >
-> XXX: XXX
+> Terminal: Logic Munchers
 
-![XXX](XXX)
+![Noel Boetie](https://2021.kringlecon.com/images/avatars/elves/noelboetie.png)
 
-> XXX
+> Hello there! Noel Boetie here. We’re all so glad to have you attend KringleCon IV and work on the Holiday Hack Challenge!
 > 
+> I'm just hanging out here by the Logic Munchers game.
+> 
+> You know… logic: that thing that seems to be in short supply at the tower on the other side of the North Pole?
+> 
+> Oh, I'm sorry. That wasn't terribly kind, but those frosty souls do confuse me...
+> 
+> Anyway, I’m working my way through this Logic Munchers game.
+> 
+> A lot of it comes down to understanding boolean logic, like ```True And False``` is ```False```, but ```True And True``` is ```True```.
+> 
+> It can get a tad complex in the later levels.
+> 
+> I need some help, though. If you can show me how to complete a stage in Potpourri at the Intermediate (Stage 3) or higher, I’ll give you some hints for how to find vulnerabilities.
+> 
+> Specifically, I’ll give you some tips in finding flaws in some of the web applications I’ve heard about here at the North Pole, especially those associated with slot machines!
 
 ## After completion
 
-> XXX
->
+> Wow - amazing score! Great work!
+> 
+> So hey, those slot machines. It seems that in his haste, Jack bought some terrible hardware.
+> 
+> It seems they're susceptible to [parameter tampering](https://owasp.org/www-community/attacks/Web_Parameter_Tampering).
+> 
+> You can modify web request parameters with an intercepting proxy or tools built into Firefox.
 
 # Ribb Bonbowford
 
@@ -381,7 +426,7 @@
 >
 > Terminal: Elf Code Python
 
-![XXX](https://2021.kringlecon.com/images/avatars/elves/ribbbonbowford.png)
+![Ribb Bonbowford](https://2021.kringlecon.com/images/avatars/elves/ribbbonbowford.png)
 
 > Hello, I'm Ribb Bonbowford. Nice to meet you!
 > 

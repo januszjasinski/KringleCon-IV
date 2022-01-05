@@ -192,6 +192,12 @@ Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
 
 ```"Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.```
 
+# Snarf. Hrung. Phlthth.
+
+It's what Hubris Selfingtonopens up with in Frost Tower Lobby
+
+[Snarf](https://en.wikipedia.org/wiki/Snarf_(ThunderCats)) - (love this dude), [Hrung](https://alienencyclopedia.fandom.com/wiki/Hrung) and I've yet to suss out what Phlthth is
+
 # Grasping at straws
 
 No 13th floor in Jack Frost Towers
