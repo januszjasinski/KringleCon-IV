@@ -188,35 +188,57 @@
 
 # Piney Sappington
 
-> Location: BBB
+> Location: Courtyard
 >
-> XXX: XXX
+> Terminal: Exif Metadata
 
-![XXX](XXX)
+![Piney Sappington](https://2021.kringlecon.com/images/avatars/elves/pineysappington.png)
 
-> XXX
+> Hi ho, Piney Sappington at your service!
 > 
+> Well, honestly, I could use a touch of your services.
+> 
+> You see, I've been looking at these documents, and I know someone has tampered with one file.
+> 
+> Do you think you could log into this Cranberry Pi and take a look?
+> 
+> It has ```exiftool``` installed on it, if that helps you at all.
+> 
+> I just... Well, I have a feeling that someone at that other conference might have fiddled with things.
+> 
+> And, if you help me figure this tampering issue out, I’ll give you some hints about OSINT, especially associated with geographic locations!
 
 ## After completion
 
-> XXX
->
+> Wow, you figured that out in no time! Thanks!
+> 
+> I knew they were up to no good.
+> 
+> So hey, have you tried the Caramel Santaigo game in this courtyard?
+> 
+> Carmen? No, I haven't heard of her.
+> 
+> So anyway, some of the hints use obscure coordinate systems like [MGRS](https://en.wikipedia.org/wiki/Military_Grid_Reference_System) and even [what3words](https://what3words.com/).
+> 
+> In some cases, you might get an image with location info in the metadata. Good thing you know how to see that stuff now!
+> 
+> (And they say, for those who don't like gameplay, there might be a way to bypass by looking at some flavor of cookie...)
+> 
+> And Clay Moody is giving a talk on OSINT techniques right now!
+> 
+> Oh, and don't forget to learn about your target elf and filter in the Interrink system!
 
 # Icy Sickles
 
-> Location: BBB
->
-> XXX: XXX
+> Location: The Third Kind
 
-![XXX](XXX)
+![Icy Sickles](https://2021.kringlecon.com/images/avatars/trolls/5743e20cb55d4d83821bf3af1cf642f9.png)
 
-> XXX
+> We come in peace! I am Icy Sickles from ice Planet Frost.
 > 
-
-## After completion
-
-> XXX
->
+> Many centuries ago, we Frostian trolls sent an expedition to study your planet and peoples.
+> 
+> Jack Frost, scion of Planet Frost’s ruling family, captained that long-ago mission, which carried many hundreds of our people to your planet to conduct our research.
 
 # Pat Tronizer
 
