@@ -190,7 +190,7 @@ This is the greeting that Numby Chilblain gives us on Frost Tower Rooftop.
 
 Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
 
-> "Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.```
+> "Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.
 
 # Snarf. Hrung. Phlthth.
 
