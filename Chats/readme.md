@@ -108,83 +108,182 @@
 
 # Santa
 
-> Location: BBB
->
-> XXX: XXX
+> Location: North Pole, KringleCon Entry, The Third Kind
 
-![XXX](XXX)
+![Santa](https://2021.kringlecon.com/images/avatars/santa.png)
 
-> XXX
+> Ho ho ho! I'm Santa Claus!
 > 
+> Welcome to the North Pole and KringleCon IV: Calling Birds!
+> 
+> I’d like to introduce you to the four birds here, each of whom is calling.
+> 
+> We're so glad to have you here to celebrate the holidays - and practice some important skills.
+> 
+> What's that? You've heard of another conference up at the North Pole?
+> 
+> Well, I'm afraid you'll have to ask Jack Frost about that.
+> 
+> To be honest, I'm not quite sure what his intentions are, but I am keeping an eye out...
+> 
+> Anyway, enjoy your time with the SANS Holiday Hack Challenge and KringleCon!
 
-## After completion
+> Welcome to my castle and KringleCon!
+> 
+> Please make yourself at home, chat with other guests, and visit the talk rooms on the second floor.
+> 
+> Also, you may find elves who need your help with various tech problems around the castle.
+> 
+> If you help them, they’ll give you some tips on how to solve the Holiday Hack Challenge Objectives in your badge.
+> 
+> Above all, have fun!
 
-> XXX
->
+> The Frostians have reached out to me via video link. They’ve explained to me all that has happened.
+> 
+> I’d like to thank you for your truly excellent work in foiling Jack’s plans and ensuring that he is finally brought to justice.
+> 
+> On behalf of all of us here at the North Pole, we wish you and yours a happy and healthy Holiday Season.
+> 
+> Thank you and HAPPY HOLIDAYS from me and all of the elves.
+> 
+> Ho Ho Ho!
 
 # Noxious O. D'or
 
-> Location: BBB
+> Location: Jack's Restroom
 >
-> XXX: XXX
+> Terminal: IMDS Exploration
 
-![XXX](XXX)
+![Noxious O. D'or](https://2021.kringlecon.com/images/avatars/trolls/337d5cd344d14111bc17d10054fb41a7.png)
 
-> XXX
+> Hey, this is the executive restroom. Wasn't that door closed?
 > 
+> I’m Noxious O’Dor. And I’ve gotta say, I think that Jack Frost is just messed up.
+> 
+> I mean, I'm no expert, but his effort to "win" against Santa by going bigger and bolder seems bad.
+> 
+> You know, I’m having some trouble with this IMDS exploration. I’m hoping you can give me some help in solving it.
+> 
+> If you do, I’ll be happy to trade you for some hints on SSRF! I’ve been studying up on that and have some good ideas on how to attack it!
 
 ## After completion
 
-> XXX
->
+> Phew! That is something extra! Oh, and you solved the challenge too? Great!
+> 
+> Cloud assets are interesting targets for attackers. Did you know they automatically get IMDS access?
+> 
+> I'm very concerned about the combination of SSRF and IMDS access.
+> 
+> Did you know it's possible to harvest cloud keys through SSRF and IMDS attacks?
+> 
+> Dr. Petabyte told us, "anytime you see URL as an input, test for SSRF."
+> 
+> With an SSRF attack, we can make the server request a URL. This can reveal valuable data!
+> 
+> The [AWS documentation for IMDS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html) is interesting reading.
 
 # Greasy GopherGuts
 
-> Location: BBB
+> Location: North Pole
 >
-> XXX: XXX
+> Terminal: Grepping for Gold
 
-![XXX](XXX)
+![Greasy GopherGuts](https://2021.kringlecon.com/images/avatars/trolls/92a9a5a076264d268896920154b488e7.png)
 
-> XXX
+> Grnph. Blach! Phlegm.
 > 
+> I'm Greasy Gopherguts. I need help with parsing some Nmap output.
+> 
+> If you help me find some results, I'll give you some hints about Wi-Fi.
+> 
+> Click on the terminal next to me and read the instructions.
+> 
+> Maybe search for a cheat sheet if the hints in the terminal don't do it for ya'.
+> 
+> You’ll type ```quizme``` in the terminal and ```grep``` through the Nmap bigscan.gnmap file to find answers.
 
 ## After completion
 
-> XXX
->
+> Grack. Ungh. ... Oh!
+> 
+> You really did it?
+> 
+> Well, OK then. Here's what I know about the wifi here.
+> 
+> Scanning for Wi-Fi networks with iwlist will be location-dependent. You may need to move around the North Pole and keep scanning to identify a Wi-Fi network.
+> 
+> Wireless in Linux is supported by many tools, but ```iwlist``` and ```iwconfig``` are commonly used at the command line.
+> 
+> The ```curl``` utility can make HTTP requests at the command line!
+> 
+> By default, ```curl``` makes an HTTP GET request. You can add ```--request POST``` as a command line argument to make an HTTP POST request.
+> 
+> When sending HTTP POST, add ```--data-binary``` followed by the data you want to send as the POST body.
 
 # Buttercup
 
-> Location: BBB
->
-> XXX: XXX
+> Location: The Third Kind
 
-![XXX](XXX)
+![Buttercup](https://2021.kringlecon.com/images/avatars/trolls/8cf69b0ce8ba414e8f7741dddb785626.png)
 
-> XXX
+> I am Buttercup, Princess of ice Planet Frost.
 > 
+> Thanks to your help, we received the message from the device summoning us back to Earth to address the recent unpleasantness.
+> 
+> We had no idea that Jack Frost would cause such trouble! We sincerely apologize.
+> 
+> We will take Jack back home to Planet Frost, along with all the other trolls.
+> 
+> The Elves and Munchkins, of course, can remain if they opt to do so.
+> 
+> Fear not, we WILL bring Jack and any guilty trolls to justice for their infractions. They will not bother your planet any longer.
+> 
+> Again, we apologize for all the troubles he has caused, and we sincerely THANK YOU for your help!
+> 
+> And, now that you've helped us solve everything, feel free to show off your skills with [some swag](https://my-store-c4645f-2.creator-spring.com/) - only for our victors!
 
-## After completion
-
-> XXX
->
 
 # Chimney Scissorsticks
 
-> Location: BBB
+> Location: NetWars
 >
-> XXX: XXX
+> Terminal: Holiday Hero
 
-![XXX](XXX)
+![Chimney Scissorsticks](https://2021.kringlecon.com/images/avatars/elves/chimneyscissorsticks.png)
 
-> XXX
+> Chimney Scissorsticks! I'm Chimney Scissorsticks, and I'm having a great time up here!
 > 
+> I've been hanging out with all these NetWars players and not worrying about what's going on next door.
+> 
+> In fact, I've really been having fun playing with this Holiday Hero terminal. You can use it to generate some jamming holiday tunes that help power Santa’s sleigh!
+> 
+> It's more fun to play with a friend but I've also heard there's a clever way to enable single player mode.
+> 
+> Single player mode? I heard it can be enabled by fiddling with two client-side values, one of which is passed to the server.
+> 
+> It's so much more fun and easier with a friend though!
+> 
+> Either way, we'd really appreciate your help getting the sleigh all fueled up.
+> 
+> Then I can get back to thinking about shellcode...
+> 
+> You did it - rock on! We're all set now that the sleigh is fueled!
+> 
+> So hey, let me talk to you a bit about manual exploitation.
 
 ## After completion
 
-> XXX
->
+> You did it - rock on! We're all set now that the sleigh is fueled!
+> 
+> So hey, let me talk to you a bit about manual exploitation.
+> 
+> If you run into any shellcode primers at the North Pole, be sure to read the directions and the comments in the shellcode source!
+> 
+> Also, troubleshooting shellcode can be difficult. Use the debugger step-by-step feature to watch values.
+> 
+> Lastly, be careful not to overwrite any register values you need to reference later on in your shellcode.
+> 
+> That's it! I know you can do it!
 
 # Piney Sappington
 
@@ -346,7 +445,7 @@
 
 # Jack Frost
 
-> Location: Courtyard and The Third Kind
+> Location: North Pole and The Third Kind
 
 ![Jack Frost](https://2021.kringlecon.com/images/avatars/jack_smirk.png)
 
@@ -434,7 +533,7 @@
 
 # Dealer
 
-> Location: Courtyard
+> Location: North Pole
 > 
 > This changed depending on your progression in KringleCon
 
@@ -478,7 +577,7 @@
 
 # Noel Boetie
 
-> Location: Courtyard
+> Location: North Pole
 >
 > Terminal: Logic Munchers
 
@@ -630,7 +729,21 @@
 
 # Seller
 
-> Location: Courtyard
+> Location: North Pole
+>
+> This changed depending on your progression in KringleCon
+
+![Quacker](https://2021.kringlecon.com/images/avatars/bird3.png)
+
+> QUACK!
+> 
+> PHWEEEET!
+> 
+> HONK HONK!!
+
+# Quacker
+
+> Location: North Pole
 >
 > This changed depending on your progression in KringleCon
 
