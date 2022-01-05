@@ -564,19 +564,43 @@
 
 # Eve Snowshoes
 
-> Location: BBB
+> Location: Santa's Office
 >
-> XXX: XXX
+> Terminal: HoHoNo
 
-![XXX](XXX)
+![Eve Snowshoes](https://2021.kringlecon.com/images/avatars/elves/evesnowshoes.png)
 
-> XXX
+> Lately I've been spending a lot of cycles worrying about what's going on next door.
 > 
+> Before that, I was checking out Fail2Ban.
+> 
+> It's this slick log scanning tool for Apache web servers.
+> 
+> If you can complete this terminal challenge, I’d be happy to give you some things I’ve learned about Kerberoasting and Active Directory permissions!
+> 
+> Why don't you do some work with Fail2Ban on this Cranberry Pi terminal first, then we’ll talk Kerberoasting and Active Directory. OK?
 
 ## After completion
 
-> XXX
->
+> Fantastic! Thanks for the help!
+> 
+> Hey, would you like to know more about Kerberoasting and Active Directory permissions abuse?
+> 
+> There's a great [talk](https://www.youtube.com/watch?v=iMh8FTzepU4) by Chris Davis on this exact subject!
+> 
+> There are also plenty of resources available to learn more about [Kerberoasting](https://gist.github.com/TarlogicSecurity/2f221924fef8c14a1d8e29f3cb5c5c4a) specifically.
+> 
+> If you have any trouble finding the domain controller on the 10.X.X.X network, remember that, when not running as root, nmap default probing relies on connecting to TCP 80 and 443.
+> 
+> Got a hash that won't crack with your wordlist? [OneRuleToRuleThemAll.rule](https://github.com/NotSoSecure/password_cracking_rules) is a great way to grow your keyspace.
+> 
+> Where'd you get your wordlist? [CeWL](https://github.com/digininja/CeWL) might generate a great wordlist from the ElfU website, but it will ignore digits in terms by default.
+> 
+> So, apropos of nothing, have you ever known system administrators who store credentials in scripts? I know, I know, you understand the folly and would never do it!
+> 
+> The easy way to investigate Active Directory misconfigurations (for Blue and Red alike!) is with [Bloodhound](https://github.com/BloodHoundAD/BloodHound), but there are [native](https://social.technet.microsoft.com/Forums/en-US/df3bfd33-c070-4a9c-be98-c4da6e591a0a/forum-faq-using-powershell-to-assign-permissions-on-active-directory-objects?forum=winserverpowershell) [methods](https://www.specterops.io/assets/resources/an_ace_up_the_sleeve.pdf) as well.
+> 
+> Oh, and one last thing: once you've granted permissions to your user, it might take up to five minutes for it to propogate throughout the domain.
 
 # Grody Goiterson
 
