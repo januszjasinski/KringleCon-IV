@@ -28,7 +28,7 @@
 
 # Grimy McTrollkins
 
-> Outside Frost Towers
+> Location: Outside Frost Towers
 >
 > Objective: Thaw Frost Tower's Entrance
 
@@ -56,7 +56,7 @@
 
 # Tangle Coalbox
 
-> Courtyard
+> Location: Courtyard
 >
 > Objective: Where in the World is Caramel Santaigo?
 
@@ -80,41 +80,319 @@
 
 # Morcel Nougat
 
+> Location:  Speaker UnPreparedness Room
+>
+> Terminal: Strange USB Device
+
+![Morcel Nougat](https://2021.kringlecon.com/images/avatars/elves/elf10.png)
+
+> Hello and welcome to the speaker _Un_Preparedness Room!
+> 
+> I'm Morcel Nougat, elf extraordinaire.
+> 
+> I've heard the talks at the other con across the way are a bit... off.
+> 
+> I really don't think they have the right sense about what makes for a wonderful holiday season. But, anyway!
+> 
+> Say, do you know anything about USB Rubber Duckies?
+> 
+> I've been playing around with them a bit myself.
+> 
+> Please see what you can do to help solve the Rubber Ducky Objective!
+> 
+> Oh, and if you need help, I hear Jewel Loggins, on this floor outside this room, has some experience.
+
+## After completion
+
+> Yay! Fantastic work!
+
 # Santa
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Noxious O. D'or
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Greasy GopherGuts
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Buttercup
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Chimney Scissorsticks
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Piney Sappington
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Icy Sickles
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Pat Tronizer
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Tinsel Upatree
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Jewel Loggins
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Jack Frost
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # SANS.edu Booth
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Fitzy Shortstack
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Erin Fection
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Dealer
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Hubris Selfington
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Noel Boetie
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Ribb Bonbowford
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Jason
 
@@ -126,29 +404,211 @@
 
 # Cyberus
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Yeller
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Ruby Cyster
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Seller
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Numby Chilblain
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Google Booth
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Crunchy Squishter
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Rose Mold
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Bow Ninecandle
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Angel Candysalt
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # Eve Snowshoes
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Grody Goiterson
 
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
+
 # Jingle Ringford
+
+> Location: BBB
+>
+> XXX: XXX
+
+![XXX](XXX)
+
+> XXX
+> 
+
+## After completion
+
+> XXX
+>
 
 # RSAC Booth
 
