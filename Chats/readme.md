@@ -377,21 +377,53 @@
 
 # Ribb Bonbowford
 
-> Location: BBB
+> Location: Dining Room
 >
-> XXX: XXX
+> Terminal: Elf Code Python
 
-![XXX](XXX)
+![XXX](https://2021.kringlecon.com/images/avatars/elves/ribbbonbowford.png)
 
-> XXX
+> Hello, I'm Ribb Bonbowford. Nice to meet you!
 > 
+> Are you new to programming? It's a handy skill for anyone in cyber security.
+> 
+> This here machine lets you control an Elf using Python 3. It’s pretty fun, but I’m having trouble getting beyond Level 8.
+> 
+> Tell you what… if you help me get past Level 8, I’ll share some of my SQLi tips with you. You may find them handy sometime around the North Pole this season.
+> 
+> Most of the information you'll need is provided during the game, but I'll give you a few more pointers, if you want them.
+> 
+> Not sure what a lever requires? Click it in the ```Current Level Objectives``` panel.
+> 
+> You can move the elf with commands like ````elf.moveLeft(5)```, ```elf.moveTo({"x":2,"y":2})```, or ```elf.moveTo(lever0.position)```.
+> 
+> Looping through long movements? Don't be afraid to ```moveUp(99)``` or whatever. You elf will stop at any obstacle.
+> 
+> You can call functions like ```myFunction()```. If you ever need to pass a function to a munchkin, you can use ```myFunction``` without the ```()```.
 
 ## After completion
 
-> XXX
->
+> Gosh, with skills like that, I'll bet you could help figure out what's really going on next door...
+> 
+> And, as I promised, let me tell you what I know about SQL injection.
+> 
+> I hear that having source code for vulnerability discovery dramatically changes the vulnerability discovery process.
+> 
+> I imagine it changes how you approach an assessment too.
+> 
+> When you have the source code, API documentation becomes [tremendously](https://www.npmjs.com/package/express-session) [valuable](https://github.com/mysqljs/mysql).
+> 
+> Who knows? Maybe you'll even find more than one vulnerability in the code.
+> 
+> Wow - even the bonus levels! That's amazing!
 
 # Jason
+
+> Location: Jack's Restroom
+>
+> Specifically, the handle
+
+![Jason](https://2021.kringlecon.com/images/terrrlet.png)
 
 > Hey! It's me, Jason!
 > 
