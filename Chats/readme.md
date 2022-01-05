@@ -580,19 +580,41 @@
 
 # Grody Goiterson
 
-> Location: BBB
+> Location: Frost Tower Lobby
 >
-> XXX: XXX
+> Terminal: Frostavator
 
-![XXX](XXX)
+![XXX](https://2021.kringlecon.com/images/avatars/trolls/474a823dfd9a47a594b83245e57c43fa.png)
 
-> XXX
+> Hrmph. Snrack! Pthbthbthb.
 > 
+> Gnerphk. Well, on to business.
+> 
+> I'm Grody Goiterson. ... It's a family name.
+> 
+> So hey, this is the Frostavator. It runs on some logic chips... that fell out.
+> 
+> I put them back in, but I must have mixed them up, because it isn't working now.
+> 
+> If you don't know much about logic gates, it's something you should look up.
+> 
+> If you help me run the elevator, maybe I can help you with something else.
+> 
+> I'm pretty good with FPGAs, if that's worth something to ya'.
 
 ## After completion
 
-> XXX
->
+> Oooo... That's it!
+> 
+> A deal's a deal. Let's talk FPGA.
+> 
+> First, did you know there are people who do this stuff [for fun](https://www.fpga4fun.com/MusicBox.html)??
+> 
+> I mean, I'm more into picking on other trolls for fun, but whatever.
+> 
+> Also, that Prof. Petabyte guy is giving [a talk](https://www.youtube.com/watch?v=GFdG1PJ4QjA) about FPGAs. Weirdo.
+> 
+> So hey, good luck or whatever.
 
 # Jingle Ringford
 
