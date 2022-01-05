@@ -268,19 +268,33 @@
 
 # Jack Frost
 
-> Location: BBB
->
-> XXX: XXX
+> Location: Courtyard and The Third Kind
 
-![XXX](XXX)
+![Jack Frost](https://2021.kringlecon.com/images/avatars/jack_smirk.png)
 
-> XXX
+> Welcome to the North Pole - the Frostiest Place on Earth™!
 > 
+> Last year, Santa somehow foiled my plot.
+> 
+> So this year, I've decided to beat Santa at his own game – I’m gonna take over the Holiday Season from the old man and dominate it myself.
+> 
+> I've built Frost Tower, the epicenter of Frostiness at the North Pole. Believe me, it's the BIGGEST North Pole tower the world has EVER seen! So much better than that lame castle next door.
+> 
+> And, quite frankly, our FrostFest conference is going to be the GREATEST con in the history of cons.
+> 
+> As for FrostFest, we honor all badges for entry, including those from the lame conference next door.
+> 
+> Oh, and make sure you visit the gift shop and buy some SWAG on your way out.
+> 
+> Everybody says it's the best SWAG you'll ever find! People love our swag!
 
-## After completion
+![Jack Frost](https://2021.kringlecon.com/images/avatars/jack_green.png)
 
-> XXX
->
+> I was just having a little fun. C’mon, man!
+> 
+> And, I was just getting started! I had such big plans!
+> 
+> I don’t want to go home!!!
 
 # SANS.edu Booth
 
