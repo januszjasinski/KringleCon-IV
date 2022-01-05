@@ -174,7 +174,7 @@ If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity
 }
 ```
 
-Also if you use ```/var/www/html/index.html``` instead of a standard URL, then you get this at the top of the script
+Also if you use ```/var/www/html/index.html``` instead of a standard URL, then you get this at the top of the script which is a not to a former SolarWinds CEO [blaming an intern](https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html) for a password leak
 
 ```php
 define('DB_NAME', 'intern');
