@@ -596,19 +596,33 @@
 
 # Jingle Ringford
 
-> Location: BBB
+> Location: Orientation
 >
-> XXX: XXX
+> Objective: KringleCon Orientation
 
-![XXX](XXX)
+![XXX](https://2021.kringlecon.com/images/avatars/elves/jingleringford.png)
 
-> XXX
+> Welcome to the North Pole, KringleCon, and the 2021 SANS Holiday Hack Challenge! I’m Jingle Ringford, one of Santa’s elves.
 > 
+> Santa asked me to come here and give you a short orientation to this festive event.
+> 
+> Before you move forward through the gate, I’ll ask you to accomplish a few simple tasks.
+> 
+> First things first, here's your badge! It's that wrapped present in the middle of your avatar.
+> 
+> Great - now you're official!
+> 
+> Click on the badge on your avatar 🎁. That’s where you will see your Objectives, Hints, and gathered Items for the Holiday Hack Challenge.
+> 
+> We’ve also got handy links to the KringleCon talks and more there for you!
+> 
+> Next, click on that USB wifi adapter - just in case you need it later.
+> 
+> OK, one last thing. Click on the Cranberry Pi Terminal and follow the on-screen instructions.
 
 ## After completion
 
-> XXX
->
+> Great! Your orientation is now complete! You can enter through the gate now. Have FUN!!!
 
 # RSAC Booth
 
