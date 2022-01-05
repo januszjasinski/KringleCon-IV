@@ -56,6 +56,28 @@
 
 # Tangle Coalbox
 
+> Courtyard
+>
+> Objective: Where in the World is Caramel Santaigo?
+
+![Tangle Coalbox](https://2021.kringlecon.com/images/avatars/elves/elf12.png)
+
+> Hey there, Gumshoe. Tangle Coalbox here again.
+> 
+> I've got a real doozy of a case for you this year.
+> 
+> Turns out some elves have gone on some misdirected journeys around the globe. It seems that someone is messing with their travel plans.
+> 
+> We could sure use your open source intelligence (OSINT) skills to find them.
+> 
+> Why dontcha' log into this vintage Cranberry Pi terminal and see if you have what it takes to track them around the globe.
+> 
+> If you're having any trouble with it, you might ask Piney Sappington right over there for tips.
+
+## After completion
+
+> You never cease to amaze, Kid. Thanks for your help.
+
 # Morcel Nougat
 
 # Santa
