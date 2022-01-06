@@ -85,7 +85,7 @@ I know it's not strictly an easter egg but still...
 
 # Apply
 
-With all the images being accessible, it's amusing to see what people try and get up to
+With all the images being accessible, it's amusing to see what people [try and get up to](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/bash_history.txt). Also, obligatory ```/etc/passwd``` file
 
     alan@XPS:~$ curl https://apply.jackfrosttower.com/images/E.jpg
     root:x:0:0:root:/root:/bin/ash
