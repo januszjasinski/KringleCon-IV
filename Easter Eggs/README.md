@@ -15,6 +15,11 @@ get '/secretendpointforuptime' do
 end
 ```
 
+I noticed this did change however to some of the following:
+
+- Alabasters secret elf pass: Iw1shi7w@$X-masEv3ryDay\!
+- Marie was here...
+
 #  Printer: Bird knob
 
 I hope this is an easter egg! This was in `/var/spool`
@@ -80,7 +85,7 @@ I know it's not strictly an easter egg but still...
 
 # Apply
 
-With all the images being accessible, it's amusing to see what people try and get up to
+With all the images being accessible, it's amusing to see what people [try and get up to](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/bash_history.txt). Also, obligatory ```/etc/passwd``` file
 
     alan@XPS:~$ curl https://apply.jackfrosttower.com/images/E.jpg
     root:x:0:0:root:/root:/bin/ash
@@ -123,36 +128,9 @@ With all the images being accessible, it's amusing to see what people try and ge
     {"type":"SIDDOWN","location":[[5,0]],"userId":"42661"}
     {"type":"REX","cell":[1,-1]}
 
-This gives the following (some editing has taken place to make it format as JSON but the general vibe is there):
-
-```json
-{
-	"day": "Monday",
-	"elf": "Jingle Ringford",
-	"elfHints": [
-		"The elf mentioned something about Stack Overflow and Golang.", 
-		"They kept checking their Snapchat app.", 
-		"Oh, I noticed they had a Star Wars themed phone case.", 
-		"The elf got really heated about using spaces for indents.", 
-		"hard"
-	],
-	"hour": 9,
-	"location": "Santa's Castle",
-	"options": [
-		["Montréal, Canada", "Edinburgh, Scotland", "Vienna, Austria"],
-		["Copenhagen, Denmark", "Antwerp, Belgium", "Edinburgh, Scotland"],
-		["Montréal, Canada", "Prague, Czech Republic", "New York, USA"],
-		["Placeholder", "Rovaniemi, Finland", "Reykjavík, Iceland"]
-	],
-	"randomSeed": 178,
-	"route": ["Edinburgh, Scotland", "Antwerp, Belgium", "Prague, Czech Republic", "Placeholder"],
-	"victoryToken": "{ hash:\"95be38fd06f44e4587060a32fe0c8ca825bfcab13fb9715090ca47632a4aabe5\", resourceId: \"eebff00a-1b54-448a-8aa0-97912e64c2b9\"}"
-}
-```
-
 # Now hiring!
 
-If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumable that means North Pole as it isn't a [legit region](https://awsregion.info/)
+If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumably that means North Pole as it isn't a [legit region](https://awsregion.info/)
 
 ```json
 {
@@ -174,13 +152,29 @@ If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity
 }
 ```
 
-Also if you use ```/var/www/html/index.html``` instead of a standard URL, then you get this at the top of the script
+Also if you use ```/var/www/html/index.html``` instead of a standard URL, then you get this at the top of the script which is a not to a former SolarWinds CEO [blaming an intern](https://edition.cnn.com/2021/02/26/politics/solarwinds123-password-intern/index.html) for a password leak
 
 ```php
 define('DB_NAME', 'intern');
 define('DB_USER', 'intern');
 define('DB_PASSWORD', 'polarwinds');
 ```
+
+# Klatu Barada Nikto
+
+This is the greeting that Numby Chilblain gives us on Frost Tower Rooftop. 
+
+![Klatu Barada Nikto](https://2021.kringlecon.com/images/avatars/trolls/aea3414c05da44768630e70b21908fda.png)
+
+Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
+
+> "Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.
+
+# Snarf. Hrung. Phlthth.
+
+It's what Hubris Selfington opens up with in Frost Tower Lobby
+
+[Snarf](https://en.wikipedia.org/wiki/Snarf_(ThunderCats)) - (love this dude), [Hrung](https://alienencyclopedia.fandom.com/wiki/Hrung) and I've yet to suss out what Phlthth is
 
 # Grasping at straws
 

