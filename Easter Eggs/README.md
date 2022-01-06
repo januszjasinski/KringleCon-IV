@@ -128,33 +128,6 @@ With all the images being accessible, it's amusing to see what people try and ge
     {"type":"SIDDOWN","location":[[5,0]],"userId":"42661"}
     {"type":"REX","cell":[1,-1]}
 
-This gives the following (some editing has taken place to make it format as JSON but the general vibe is there):
-
-```json
-{
-	"day": "Monday",
-	"elf": "Jingle Ringford",
-	"elfHints": [
-		"The elf mentioned something about Stack Overflow and Golang.", 
-		"They kept checking their Snapchat app.", 
-		"Oh, I noticed they had a Star Wars themed phone case.", 
-		"The elf got really heated about using spaces for indents.", 
-		"hard"
-	],
-	"hour": 9,
-	"location": "Santa's Castle",
-	"options": [
-		["Montréal, Canada", "Edinburgh, Scotland", "Vienna, Austria"],
-		["Copenhagen, Denmark", "Antwerp, Belgium", "Edinburgh, Scotland"],
-		["Montréal, Canada", "Prague, Czech Republic", "New York, USA"],
-		["Placeholder", "Rovaniemi, Finland", "Reykjavík, Iceland"]
-	],
-	"randomSeed": 178,
-	"route": ["Edinburgh, Scotland", "Antwerp, Belgium", "Prague, Czech Republic", "Placeholder"],
-	"victoryToken": "{ hash:\"95be38fd06f44e4587060a32fe0c8ca825bfcab13fb9715090ca47632a4aabe5\", resourceId: \"eebff00a-1b54-448a-8aa0-97912e64c2b9\"}"
-}
-```
-
 # Now hiring!
 
 If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumable that means North Pole as it isn't a [legit region](https://awsregion.info/)
