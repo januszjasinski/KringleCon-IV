@@ -34,6 +34,12 @@ Open burp, intercept websocket, change a request when teleporting to the followi
 {"type":"TELEPORT_USER","destination":"shenanigans"}
 ```
 
+You can also get to it by amending the data attribute ```floor``` to a random number, on the elevator in Frost Tower Lobby, selecting the floor and whoosh....
+
+```html
+<button class="btn btn2" data-floor="420">Talks</button>
+```
+
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
 # Yara Analysis
