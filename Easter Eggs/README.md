@@ -15,6 +15,11 @@ get '/secretendpointforuptime' do
 end
 ```
 
+I noticed this did change however to some of the following:
+
+- Alabasters secret elf pass: Iw1shi7w@$X-masEv3ryDay\!
+- Marie was here...
+
 #  Printer: Bird knob
 
 I hope this is an easter egg! This was in `/var/spool`
