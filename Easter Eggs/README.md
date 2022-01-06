@@ -34,6 +34,12 @@ Open burp, intercept websocket, change a request when teleporting to the followi
 {"type":"TELEPORT_USER","destination":"shenanigans"}
 ```
 
+You can also get to it by amending the data attribute ```floor``` to a random number, on the elevator in Frost Tower Lobby or the one in the entry of KringleCon, selecting the floor and whoosh....
+
+```html
+<button class="btn btn2" data-floor="420">Talks</button>
+```
+
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
 # Yara Analysis
@@ -130,7 +136,7 @@ With all the images being accessible, it's amusing to see what people [try and g
 
 # Now hiring!
 
-If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumable that means North Pole as it isn't a [legit region](https://awsregion.info/)
+If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumably that means North Pole as it isn't a [legit region](https://awsregion.info/)
 
 ```json
 {
