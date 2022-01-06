@@ -182,6 +182,12 @@ It's what Hubris Selfington opens up with in Frost Tower Lobby
 
 [Snarf](https://en.wikipedia.org/wiki/Snarf_(ThunderCats)) - (love this dude), [Hrung](https://alienencyclopedia.fandom.com/wiki/Hrung) and I've yet to suss out what Phlthth is
 
+# Discord
+
+What's all this then...
+
+![Hmm](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/discord.jpg)
+
 # Grasping at straws
 
 No 13th floor in Jack Frost Towers
