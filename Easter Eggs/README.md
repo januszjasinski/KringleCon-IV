@@ -130,7 +130,7 @@ With all the images being accessible, it's amusing to see what people [try and g
 
 # Now hiring!
 
-If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumable that means North Pole as it isn't a [legit region](https://awsregion.info/)
+If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumably that means North Pole as it isn't a [legit region](https://awsregion.info/)
 
 ```json
 {
