@@ -1,3 +1,2 @@
 import elf, munchkins, levers, lollipops, yeeters, pits
-elf.moveLeft(10)
-elf.moveUp(100)
+elf.moveTo({"x":2, "y":2})

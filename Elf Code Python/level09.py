@@ -3,22 +3,20 @@ import elf, munchkins, levers, lollipops, yeeters, pits, operator
 def YourFunctionNameHere(one_argument):
     flat = reduce(operator.concat, one_argument)
     return sum([i for i in flat if isinstance(i, int) or isinstance(i, float)])
-# Could really do with not being lazy and put into a loop...
-elf.moveDown(1)
-levers.get(0).pull(0)
-elf.moveLeft(2)
-levers.get(1).pull(1)
-elf.moveUp(3)
-levers.get(2).pull(2)
-elf.moveRight(4)
-levers.get(3).pull(3)
-elf.moveDown(5)
-levers.get(4).pull(4)
-elf.moveLeft(6)
-levers.get(5).pull(5)
-elf.moveUp(7)
-levers.get(6).pull(6)
-elf.moveRight(8)
+
+ints = [0,4]
+
+for key in ints:
+    elf.moveDown(key+1)
+    levers.get(key).pull(key)
+    elf.moveLeft(key+2)
+    levers.get(key+1).pull(key+1)
+    elf.moveUp(key+3)
+    levers.get(key+2).pull(key+2)
+    elf.moveRight(key+4)
+    if key==0:
+        levers.get(key+3).pull(key+3)
+
 elf.moveUp(2)
 elf.moveLeft(4)
 munchkins.get(0).answer(YourFunctionNameHere)
