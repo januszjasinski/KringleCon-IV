@@ -2,6 +2,8 @@
 
 My repository for KringleCon IV. Just including some extra stuff I thought may be worth your time looking at.
 
+![Turtle](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/turtles.jpeg)
+
 ## Report
 
 - https://github.com/januszjasinski/KringleCon-IV/blob/main/report.pdf
