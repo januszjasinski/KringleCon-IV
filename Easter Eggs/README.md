@@ -34,7 +34,7 @@ Open burp, intercept websocket, change a request when teleporting to the followi
 {"type":"TELEPORT_USER","destination":"shenanigans"}
 ```
 
-You can also get to it by amending the data attribute ```floor``` to a random number, on the elevator in Frost Tower Lobby, selecting the floor and whoosh....
+You can also get to it by amending the data attribute ```floor``` to a random number, on the elevator in Frost Tower Lobby or the one in the entry of KringleCon, selecting the floor and whoosh....
 
 ```html
 <button class="btn btn2" data-floor="420">Talks</button>
