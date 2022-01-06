@@ -1,6 +1,6 @@
 # KringleCon-IV
 
-My repository for KringleCon IV. Just including some extra stuff I thought may be worth your time looking at.
+My repository for KringleCon IV. Just including some extra stuff I thought may be worth your time looking at. First of all, here's an awesome picture.
 
 ![Turtle](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/turtles.jpeg)
 
