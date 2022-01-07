@@ -196,7 +196,7 @@ Jack stuck in the vending machine
 
 ![Stuck Jack](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/vending_frost_stuck.jpeg)
 
-Sure this has been here in previous years but the login page has this beaut
+Sure this has been here in previous years but the login page has this beauty
 
 ```html
 <div class="curiosity">
