@@ -195,3 +195,11 @@ No 13th floor in Jack Frost Towers
 Jack stuck in the vending machine
 
 ![Stuck Jack](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/vending_frost_stuck.jpeg)
+
+Sure this has been here in previous years but the login page has this beaut
+
+```html
+<div class="curiosity">
+    <p>You're curious.</p>
+    <p>We like that. :)</p>
+</div>```
