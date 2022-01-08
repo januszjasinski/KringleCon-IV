@@ -17,7 +17,7 @@ Anyway, here's an awesome picture.
 - [Chats](https://github.com/januszjasinski/KringleCon-IV/tree/main/Chats)
 - [Easter Eggs](https://github.com/januszjasinski/KringleCon-IV/tree/main/Easter%20Eggs)
 - [Hints](https://github.com/januszjasinski/KringleCon-IV/tree/main/Hints)
-- [Images found](https://github.com/januszjasinski/KringleCon-IV/tree/main/images)
+- [Images found - this isn't that exciting in truth](https://github.com/januszjasinski/KringleCon-IV/tree/main/images)
 
 ## Terminals
 
