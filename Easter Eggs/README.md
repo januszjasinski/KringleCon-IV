@@ -67,7 +67,7 @@ I see you but where are you hiding...
 
 ## Shell primer passwd file
 
-I know it's not strictly an easter egg but still...
+I know it's not strictly an easter egg but still, just shows we could access local files. Tried to get server config files but it comes back as a server name of ```envoy``` and in all honesty, I didn't fancy going down another rabbit hole
 
     root:x:0:0:root:/root:/bin/bash
     daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
