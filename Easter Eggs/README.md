@@ -1,11 +1,12 @@
+#Eggcellent
 
-# Jason
+## Jason
 
 Hiding in Jack's Executive Restroom
 
 ![Jason](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/jason.PNG "Jason")
 
-#  Printer: Secret end point
+##  Printer: Secret end point
 
 https://printer.kringlecastle.com/secretendpointforuptime revealing the text: **follow the white rabbit**. This was found in the application code.
 
@@ -20,13 +21,13 @@ I noticed this did change however to some of the following:
 - Alabasters secret elf pass: Iw1shi7w@$X-masEv3ryDay\!
 - Marie was here...
 
-#  Printer: Bird knob
+##  Printer: Bird knob
 
 I hope this is an easter egg! This was in `/var/spool`
 
 ![Bird Knob](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/birdknob.png "Bird Knob")
 
-#  Shenanigans
+##  Shenanigans
 
 Open burp, intercept websocket, change a request when teleporting to the following and voila:
 
@@ -42,7 +43,7 @@ You can also get to it by amending the data attribute ```floor``` to a random nu
 
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
-# Yara Analysis
+## Yara Analysis
 
 When completing this terminal you get the following output:
 
@@ -52,19 +53,19 @@ Do a HEX to Acii conversion and voila:
 
     Jolly Enough, Overtime Approved
 
-# Picture frames
+## Picture frames
 
 Already covered in previous KringleCons such as https://holidayhackchallenge.com/2020/winners/HolidayHack_2020_Final_Mark_Mulvaney.pdf but you know.... content
 
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/frames.PNG "shenanigans")
 
-# Dimitri
+## Dimitri
 
 I see you but where are you hiding...
 
 ![Dimitri](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/dimitri.gif "Dimitri")
 
-# Shell primer passwd file
+## Shell primer passwd file
 
 I know it's not strictly an easter egg but still...
 
@@ -89,7 +90,7 @@ I know it's not strictly an easter egg but still...
     _apt:x:100:65534::/nonexistent:/usr/sbin/nologin
     mandrake:x:1000:1000::/home/mandrake:/bin/sh
 
-# Apply
+## Apply
 
 With all the images being accessible, it's amusing to see what people [try and get up to](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/bash_history.txt). Also, obligatory ```/etc/passwd``` file
 
@@ -124,7 +125,7 @@ With all the images being accessible, it's amusing to see what people [try and g
     nobody:x:65534:65534:nobody:/:/sbin/nologin
     nginx:x:100:101:nginx:/var/lib/nginx:/sbin/nologin
 
-# WebSocket messages
+## WebSocket messages
 
     {"type":"WS_OHHIMARK","userId":"42661","sid":"MDcyMTQ5MGEtZDI5OS00ZWYxLTk1MDgtMmVmMDQ5NDliYjFh"}
     {"type":"CHORT","chat":[...
@@ -133,8 +134,9 @@ With all the images being accessible, it's amusing to see what people [try and g
     {"type":"AUF_WIEDERSEHEN","userId":"14303"}
     {"type":"SIDDOWN","location":[[5,0]],"userId":"42661"}
     {"type":"REX","cell":[1,-1]}
+    {"type":"DENNIS_NEDRY","scope":"form...
 
-# Now hiring!
+## Now hiring!
 
 If you SSRF with the URL http://169.254.169.254/latest/dynamic/instance-identity/document/ and after a ```curl``` it brings back the following that contains a region, presumably that means North Pole as it isn't a [legit region](https://awsregion.info/)
 
@@ -166,7 +168,7 @@ define('DB_USER', 'intern');
 define('DB_PASSWORD', 'polarwinds');
 ```
 
-# Klatu Barada Nikto
+## Klatu Barada Nikto
 
 This is the greeting that Numby Chilblain gives us on Frost Tower Rooftop. 
 
@@ -176,25 +178,39 @@ Thanks to [wikipedia](https://en.wikipedia.org/wiki/Klaatu_barada_nikto):
 
 > "Klaatu barada nikto" is a phrase that originated in the 1951 science fiction film The Day the Earth Stood Still.
 
-# Snarf. Hrung. Phlthth.
+## Snarf. Hrung. Phlthth.
 
 It's what Hubris Selfington opens up with in Frost Tower Lobby
 
 [Snarf](https://en.wikipedia.org/wiki/Snarf_(ThunderCats)) - (love this dude), [Hrung](https://alienencyclopedia.fandom.com/wiki/Hrung) and I've yet to suss out what Phlthth is
 
-# Discord
+## Umbrella
+
+I mean, fair play to my wife for [finding this one](https://en.wikipedia.org/wiki/Umbrella_(song)). Was on the roof of Frost Tower in amongst he FPGA objective.
+
+![](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/ellaellaeheheh.png)
+
+# Grasping at straws
+
+These are just "things" rather than Easter Eggs...
+
+## Discord
 
 What's all this then...
 
 ![Hmm](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/discord.jpg)
 
-# Grasping at straws
+## 13th Floor
 
 No 13th floor in Jack Frost Towers
+
+## Stuck
 
 Jack stuck in the vending machine
 
 ![Stuck Jack](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/vending_frost_stuck.jpeg)
+
+## Curiosity killed the cat
 
 Sure this has been here in previous years but the login page has this beauty
 
@@ -204,3 +220,30 @@ Sure this has been here in previous years but the login page has this beauty
     <p>We like that. :)</p>
 </div>
 ```
+
+## References to past KringleCons
+
+You can tell when I'm struggling when I start to reference stuff that's just obvious but here's a pic that references past cons!
+
+## The eyes
+
+They featured last year for an objective and are back again, in the same place just very well hidden unless you inspect elements or zoom in
+
+![Eyes](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/eyes.png)
+
+```html
+<div class="eyes"></div>
+```
+
+## Kerberoasting with some Latin
+
+On the [file exfiltrated](https://github.com/januszjasinski/KringleCon-IV/blob/main/Kerberoasting/SantaSecretToAWonderfulHolidaySeason.pdf) for the Kerberoasting objective, there's some Latin which reads
+
+> Ille te videt dum dormit
+
+This translates to
+
+> He sees you while you’re sleeping
+
+I mean, as it's been kicking around on previous KringleCon's it's not really an Easter Egg but you know.... #content
+
