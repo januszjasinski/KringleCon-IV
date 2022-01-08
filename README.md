@@ -1,6 +1,10 @@
 # KringleCon-IV
 
-My repository for KringleCon IV. Just including some extra stuff I thought may be worth your time looking at. First of all, here's an awesome picture.
+My repository for KringleCon IV. Just including some extra stuff I thought may be worth your time looking at but most important of all is [my actual report](https://github.com/januszjasinski/KringleCon-IV/blob/main/report.pdf).
+
+Report itself is 50 pages and obviously everything else below would take it to several hundred hence why the report is, well, the report I'm submitting :-)
+
+Anyway, here's an awesome picture.
 
 ![Turtle](https://github.com/januszjasinski/KringleCon-IV/blob/main/images/turtles.jpeg)
 
