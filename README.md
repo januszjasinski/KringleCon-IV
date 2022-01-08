@@ -30,11 +30,11 @@ Anyway, here's an awesome picture.
 ## Objectives
 
 - [Strange USB Device - quack](https://github.com/januszjasinski/KringleCon-IV/tree/main/Ducky)
-- [Kerberoasting - just the password file](https://github.com/januszjasinski/KringleCon-IV/tree/main/Kerberoasting)
-- [Now Hiring - using RockYou and other lists to enumerate what people were trying](https://github.com/januszjasinski/KringleCon-IV/tree/main/Now%20Hiring)
-- [Where in the World is Caramel Santaigo? - Python and CyberChef](https://github.com/januszjasinski/KringleCon-IV/tree/main/Where%20in%20the%20World%20is%20Caramel%20Santaigo)
+- [Kerberoasting - just the password file and final document](https://github.com/januszjasinski/KringleCon-IV/tree/main/Kerberoasting)
+- [Now Hiring - renumeration, config and source files](https://github.com/januszjasinski/KringleCon-IV/tree/main/Now%20Hiring)
+- [Where in the World is Caramel Santaigo? - 2 solutions, 1 outcome](https://github.com/januszjasinski/KringleCon-IV/tree/main/Where%20in%20the%20World%20is%20Caramel%20Santaigo)
 - [Customer complaint analysis - extracted objects and all complaints](https://github.com/januszjasinski/KringleCon-IV/tree/main/Customer%20Complaint%20Analysis)
-- [Shellcode Primer - if you didn't want to go away from here](https://github.com/januszjasinski/KringleCon-IV/blob/main/Shellcode%20Primer/readme.md)
+- [Shellcode Primer - if you didn't want leave this glorious repo, go here](https://github.com/januszjasinski/KringleCon-IV/blob/main/Shellcode%20Primer/readme.md)
 
 ## Story
 
