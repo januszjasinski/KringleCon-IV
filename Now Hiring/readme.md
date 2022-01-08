@@ -1,4 +1,4 @@
-The source code for the site is in here somewhere....
+The MD5 based named text files are other people's attempts
 
 - [Trying to send email using the config settings](https://github.com/januszjasinski/KringleCon-IV/blob/main/Now%20Hiring/mailtrap.py)
 - [NGINX Config](https://github.com/januszjasinski/KringleCon-IV/blob/main/Now%20Hiring/nginx.conf)
