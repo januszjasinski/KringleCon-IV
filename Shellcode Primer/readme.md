@@ -48,3 +48,48 @@ pop rax
 mov rax, 0x1337
 ret
 ```
+
+## Loops
+
+> Although you won't have to worry about writing a loop for any of these lessons, showing how a loop works is a good demo for the debugger.
+> 
+> Look at the code below, then execute it (no need to change it). Watch how the same code repeats, over and over, with rax changing in each loop.
+> 
+> Notice how the code listing below isn't the same as what is executed in the debugger. In the History section of the debugger, the instructions will change to show what is executed to achieve what you describe in the assembly source code.
+
+```
+; We want to loop 5 times - you can change this if you want!
+mov rax, 5
+
+; Top of the loop
+top:
+  ; Decrement rax
+  dec rax
+
+  ; Jump back to the top until rax is zero
+  jnz top
+
+; Cleanly return after the loop
+ret
+```
+
+## Getting started
+
+> Welcome! Are you ready to learn how to write shellcode? We hope so! First, some tips:
+> 
+> - Comments are denoted with a semicolon (;)
+> - Don't forget to look at the debugger, line by line, if something is wrong
+> - Really, don't forget to read the error list! We check each place where you might go wrong in your code
+> - Your code for each level is saved in your browser, so you can leave and come back, refresh the page, and hop back to previous levels to borrow code
+>
+> This level currently fails to build because it has no code. Can you add a ```ret```urn statement at the end? Don't worry about what it's actually returning (yet!)
+> 
+> Feel free to check previous levels!
+
+```
+; This is a comment! We'll use comments to help guide your journey.
+; Right now, we just need to RETurn!
+;
+; Enter a return statement below and hit Execute to see what happens!
+ret
+```
