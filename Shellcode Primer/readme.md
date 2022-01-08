@@ -93,3 +93,77 @@ ret
 ; Enter a return statement below and hit Execute to see what happens!
 ret
 ```
+
+## Returning a value
+
+> Now that we have an empty function, we can start building some code! Let's learn what a register is.
+> 
+> A register is like a variable, except there are a small number of them - you have about eight general purpose 64-bit integers registers on amd64 (we won't talk about floating point or other special registers):
+> 
+> - ```rax```
+> - ```rbx```
+> - ```rcx```
+> - ```rdx```
+> - ```rdi```
+> - ```rsi```
+> - ```rbp```
+> - ```rsp```
+> 
+> All mathy stuff that a computer does (add, subtract, xor, etc) operates on registers, not directly on memory. So they're super important!
+> 
+> Specific registers have some implicit meaning, mostly by convention. For example, when a function returns, its return value is typically put in ```rax```. Let's do that!
+> 
+> To move a value into a register, use the ```mov``` instruction; for example:
+> 
+> ```mov rdx, 1```
+> 
+> In a higher-level language this would be equivalent to:
+> 
+> ```rdx = 1 —```
+> 
+> For this level, can you return the number '1337' from your function?
+> 
+> That means that rax must equal 1337 when the function returns.
+
+```
+; TODO: Set rax to 1337
+mov rax, 1337
+
+; Return, just like we did last time
+ret
+```
+
+## System calls
+
+> If you've made it this far, I bet you're wondering how to make your shellcode do something!
+> 
+> If you're familiar with Python, you might know how to use the ```open()``` function. If you know C, you might know the ```fopen()``` function. But what these and similar functions have in common is one thing: they're library code. And because shellcode needs to be self contained, we don't have (easy) access to library code!
+> 
+> So how do we deal with that?
+> 
+> Linux has something called a ```syscall```, or system call. A syscall is a request that a program makes that asks Linux - the kernel - to do something. And it turns out, at the end of the day, all of those library calls ultimately end with a syscall. [Here is a list of available syscalls on x64](https://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/) ([alternative](https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md))
+> 
+> To perform a syscall:
+> 
+> - The number for the desired syscall is moved into ```rax```
+> - The first parameter is moved into ```rdi```, the second into ```rsi```, and the third into ```rdx``` (there are others, but not many syscalls need more than 3 parameters)
+> - Execute the ```syscall``` instruction
+> 
+> The second ```syscall``` executes, Linux flips into kernel mode and we can no longer debug it. When it's finished, it returns the result in ```rax```.
+> 
+> For this challenge, we're going to call ```sys_exit``` to exit the process with exit code 99.
+> 
+> Can you prepare ```rax``` and ```rdi``` with the correct values to exit?
+> 
+> As always, feel free to mess around as much as you like!
+
+```
+; TODO: Find the syscall number for sys_exit and put it in rax
+mov rax, 60
+
+; TODO: Put the exit_code we want (99) in rdi
+mov rdi, 99
+
+; Perform the actual syscall
+syscall
+```
