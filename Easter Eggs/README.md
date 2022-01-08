@@ -41,6 +41,8 @@ You can also get to it by amending the data attribute ```floor``` to a random nu
 <button class="btn btn2" data-floor="420">Talks</button>
 ```
 
+Look, a massive ```LOL```... JUST LOOK AT IT
+
 ![shenanigans](https://github.com/januszjasinski/KringleCon-IV/blob/main/Easter%20Eggs/shenanigans.PNG "shenanigans")
 
 ## Yara Analysis
